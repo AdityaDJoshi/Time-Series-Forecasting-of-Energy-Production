@@ -1,0 +1,1884 @@
+period,subba,subba-name,parent,parent-name,value,value-units
+2024-11-26T00,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,12525,megawatthours
+2024-11-26T00,SCE,Southern California Edison,CISO,California Independent System Operator,13060,megawatthours
+2024-11-26T00,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1926,megawatthours
+2024-11-26T00,VEA,Valley Electric Association,CISO,California Independent System Operator,82,megawatthours
+2024-11-26T00,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",14947,megawatthours
+2024-11-26T00,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1677,megawatthours
+2024-11-26T00,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7271,megawatthours
+2024-11-26T00,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13857,megawatthours
+2024-11-26T00,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1622,megawatthours
+2024-11-26T00,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",8177,megawatthours
+2024-11-26T00,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4624,megawatthours
+2024-11-26T00,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1101,megawatthours
+2024-11-26T00,4001,Maine,ISNE,ISO New England,1557,megawatthours
+2024-11-26T00,4002,New Hampshire,ISNE,ISO New England,1523,megawatthours
+2024-11-26T00,4003,Vermont,ISNE,ISO New England,676,megawatthours
+2024-11-26T00,4004,Connecticut,ISNE,ISO New England,3562,megawatthours
+2024-11-26T00,4005,Rhode Island,ISNE,ISO New England,977,megawatthours
+2024-11-26T00,4006,Southeast Mass.,ISNE,ISO New England,1836,megawatthours
+2024-11-26T00,4007,Western/Central Mass.,ISNE,ISO New England,2105,megawatthours
+2024-11-26T00,4008,Northeast Mass.,ISNE,ISO New England,2919,megawatthours
+2024-11-26T00,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",12577,megawatthours
+2024-11-26T00,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",5199,megawatthours
+2024-11-26T00,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",10143,megawatthours
+2024-11-26T00,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",18787,megawatthours
+2024-11-26T00,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",10899,megawatthours
+2024-11-26T00,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",19607,megawatthours
+2024-11-26T00,ZONA,West,NYIS,New York Independent System Operator,1805,megawatthours
+2024-11-26T00,ZONB,Genesee,NYIS,New York Independent System Operator,1216,megawatthours
+2024-11-26T00,ZONC,Central,NYIS,New York Independent System Operator,1938,megawatthours
+2024-11-26T00,ZOND,North,NYIS,New York Independent System Operator,701,megawatthours
+2024-11-26T00,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,993,megawatthours
+2024-11-26T00,ZONF,Capital,NYIS,New York Independent System Operator,1518,megawatthours
+2024-11-26T00,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1225,megawatthours
+2024-11-26T00,ZONH,Millwood,NYIS,New York Independent System Operator,358,megawatthours
+2024-11-26T00,ZONI,Dunwoodie,NYIS,New York Independent System Operator,737,megawatthours
+2024-11-26T00,ZONJ,New York City,NYIS,New York Independent System Operator,5804,megawatthours
+2024-11-26T00,ZONK,Long Island,NYIS,New York Independent System Operator,2468,megawatthours
+2024-11-26T00,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1220,megawatthours
+2024-11-26T00,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",15172,megawatthours
+2024-11-26T00,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5911,megawatthours
+2024-11-26T00,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",7937,megawatthours
+2024-11-26T00,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3504,megawatthours
+2024-11-26T00,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",11471,megawatthours
+2024-11-26T00,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1972,megawatthours
+2024-11-26T00,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2919,megawatthours
+2024-11-26T00,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",14522,megawatthours
+2024-11-26T00,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",2128,megawatthours
+2024-11-26T00,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1557,megawatthours
+2024-11-26T00,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1594,megawatthours
+2024-11-26T00,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2713,megawatthours
+2024-11-26T00,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1874,megawatthours
+2024-11-26T00,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4493,megawatthours
+2024-11-26T00,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",3176,megawatthours
+2024-11-26T00,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",5056,megawatthours
+2024-11-26T00,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2063,megawatthours
+2024-11-26T00,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",5089,megawatthours
+2024-11-26T00,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",181,megawatthours
+2024-11-26T00,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-26T00,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,23,megawatthours
+2024-11-26T00,Frep,Freeport,PNM,Public Service Company of New Mexico,83,megawatthours
+2024-11-26T00,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-26T00,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,53,megawatthours
+2024-11-26T00,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,38,megawatthours
+2024-11-26T00,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,60,megawatthours
+2024-11-26T00,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1125,megawatthours
+2024-11-26T00,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,270,megawatthours
+2024-11-26T00,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,5129,megawatthours
+2024-11-26T00,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,679,megawatthours
+2024-11-26T00,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,868,megawatthours
+2024-11-26T00,INDN,Independence Power & Light,SWPP,Southwest Power Pool,123,megawatthours
+2024-11-26T00,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,267,megawatthours
+2024-11-26T00,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,2045,megawatthours
+2024-11-26T00,LES,Lincoln Electric System,SWPP,Southwest Power Pool,438,megawatthours
+2024-11-26T00,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1137,megawatthours
+2024-11-26T00,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2191,megawatthours
+2024-11-26T00,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4284,megawatthours
+2024-11-26T00,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1836,megawatthours
+2024-11-26T00,SECI,Sunflower Electric,SWPP,Southwest Power Pool,675,megawatthours
+2024-11-26T00,SPRM,City of Springfield,SWPP,Southwest Power Pool,390,megawatthours
+2024-11-26T00,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3979,megawatthours
+2024-11-26T00,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4622,megawatthours
+2024-11-26T00,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1169,megawatthours
+2024-11-26T00,WR,Westar Energy,SWPP,Southwest Power Pool,3653,megawatthours
+2024-11-25T23,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,12392,megawatthours
+2024-11-25T23,SCE,Southern California Edison,CISO,California Independent System Operator,13577,megawatthours
+2024-11-25T23,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1752,megawatthours
+2024-11-25T23,VEA,Valley Electric Association,CISO,California Independent System Operator,113,megawatthours
+2024-11-25T23,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",15320,megawatthours
+2024-11-25T23,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1732,megawatthours
+2024-11-25T23,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7463,megawatthours
+2024-11-25T23,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13366,megawatthours
+2024-11-25T23,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1542,megawatthours
+2024-11-25T23,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",8491,megawatthours
+2024-11-25T23,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4834,megawatthours
+2024-11-25T23,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1040,megawatthours
+2024-11-25T23,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",12002,megawatthours
+2024-11-25T23,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",5027,megawatthours
+2024-11-25T23,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",10065,megawatthours
+2024-11-25T23,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",18702,megawatthours
+2024-11-25T23,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",10410,megawatthours
+2024-11-25T23,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",19510,megawatthours
+2024-11-25T23,ZONA,West,NYIS,New York Independent System Operator,1828,megawatthours
+2024-11-25T23,ZONB,Genesee,NYIS,New York Independent System Operator,1226,megawatthours
+2024-11-25T23,ZONC,Central,NYIS,New York Independent System Operator,1955,megawatthours
+2024-11-25T23,ZOND,North,NYIS,New York Independent System Operator,701,megawatthours
+2024-11-25T23,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,998,megawatthours
+2024-11-25T23,ZONF,Capital,NYIS,New York Independent System Operator,1517,megawatthours
+2024-11-25T23,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1221,megawatthours
+2024-11-25T23,ZONH,Millwood,NYIS,New York Independent System Operator,352,megawatthours
+2024-11-25T23,ZONI,Dunwoodie,NYIS,New York Independent System Operator,733,megawatthours
+2024-11-25T23,ZONJ,New York City,NYIS,New York Independent System Operator,5937,megawatthours
+2024-11-25T23,ZONK,Long Island,NYIS,New York Independent System Operator,2452,megawatthours
+2024-11-25T23,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1212,megawatthours
+2024-11-25T23,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",15274,megawatthours
+2024-11-25T23,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5952,megawatthours
+2024-11-25T23,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",8059,megawatthours
+2024-11-25T23,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3503,megawatthours
+2024-11-25T23,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",11370,megawatthours
+2024-11-25T23,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1985,megawatthours
+2024-11-25T23,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2920,megawatthours
+2024-11-25T23,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",14473,megawatthours
+2024-11-25T23,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",2104,megawatthours
+2024-11-25T23,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1577,megawatthours
+2024-11-25T23,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1560,megawatthours
+2024-11-25T23,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2680,megawatthours
+2024-11-25T23,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1886,megawatthours
+2024-11-25T23,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4530,megawatthours
+2024-11-25T23,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",3245,megawatthours
+2024-11-25T23,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",5094,megawatthours
+2024-11-25T23,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2067,megawatthours
+2024-11-25T23,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",5124,megawatthours
+2024-11-25T23,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",182,megawatthours
+2024-11-25T23,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T23,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,21,megawatthours
+2024-11-25T23,Frep,Freeport,PNM,Public Service Company of New Mexico,80,megawatthours
+2024-11-25T23,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T23,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,54,megawatthours
+2024-11-25T23,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,27,megawatthours
+2024-11-25T23,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,59,megawatthours
+2024-11-25T23,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1049,megawatthours
+2024-11-25T23,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,255,megawatthours
+2024-11-25T23,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4963,megawatthours
+2024-11-25T23,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,640,megawatthours
+2024-11-25T23,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,854,megawatthours
+2024-11-25T23,INDN,Independence Power & Light,SWPP,Southwest Power Pool,113,megawatthours
+2024-11-25T23,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,258,megawatthours
+2024-11-25T23,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1919,megawatthours
+2024-11-25T23,LES,Lincoln Electric System,SWPP,Southwest Power Pool,413,megawatthours
+2024-11-25T23,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1084,megawatthours
+2024-11-25T23,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2103,megawatthours
+2024-11-25T23,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4113,megawatthours
+2024-11-25T23,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1762,megawatthours
+2024-11-25T23,SECI,Sunflower Electric,SWPP,Southwest Power Pool,656,megawatthours
+2024-11-25T23,SPRM,City of Springfield,SWPP,Southwest Power Pool,375,megawatthours
+2024-11-25T23,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3876,megawatthours
+2024-11-25T23,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4556,megawatthours
+2024-11-25T23,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1086,megawatthours
+2024-11-25T23,WR,Westar Energy,SWPP,Southwest Power Pool,3494,megawatthours
+2024-11-25T22,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,12321,megawatthours
+2024-11-25T22,SCE,Southern California Edison,CISO,California Independent System Operator,13612,megawatthours
+2024-11-25T22,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1583,megawatthours
+2024-11-25T22,VEA,Valley Electric Association,CISO,California Independent System Operator,119,megawatthours
+2024-11-25T22,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",15576,megawatthours
+2024-11-25T22,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1809,megawatthours
+2024-11-25T22,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7453,megawatthours
+2024-11-25T22,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13495,megawatthours
+2024-11-25T22,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1548,megawatthours
+2024-11-25T22,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",8717,megawatthours
+2024-11-25T22,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4902,megawatthours
+2024-11-25T22,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1059,megawatthours
+2024-11-25T22,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11466,megawatthours
+2024-11-25T22,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4878,megawatthours
+2024-11-25T22,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9852,megawatthours
+2024-11-25T22,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",18258,megawatthours
+2024-11-25T22,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",10155,megawatthours
+2024-11-25T22,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",19741,megawatthours
+2024-11-25T22,ZONA,West,NYIS,New York Independent System Operator,1770,megawatthours
+2024-11-25T22,ZONB,Genesee,NYIS,New York Independent System Operator,1174,megawatthours
+2024-11-25T22,ZONC,Central,NYIS,New York Independent System Operator,1885,megawatthours
+2024-11-25T22,ZOND,North,NYIS,New York Independent System Operator,689,megawatthours
+2024-11-25T22,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,943,megawatthours
+2024-11-25T22,ZONF,Capital,NYIS,New York Independent System Operator,1446,megawatthours
+2024-11-25T22,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1142,megawatthours
+2024-11-25T22,ZONH,Millwood,NYIS,New York Independent System Operator,318,megawatthours
+2024-11-25T22,ZONI,Dunwoodie,NYIS,New York Independent System Operator,693,megawatthours
+2024-11-25T22,ZONJ,New York City,NYIS,New York Independent System Operator,5837,megawatthours
+2024-11-25T22,ZONK,Long Island,NYIS,New York Independent System Operator,2279,megawatthours
+2024-11-25T22,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1117,megawatthours
+2024-11-25T22,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14809,megawatthours
+2024-11-25T22,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5754,megawatthours
+2024-11-25T22,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",7881,megawatthours
+2024-11-25T22,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3289,megawatthours
+2024-11-25T22,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",11088,megawatthours
+2024-11-25T22,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1939,megawatthours
+2024-11-25T22,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2818,megawatthours
+2024-11-25T22,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",13749,megawatthours
+2024-11-25T22,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1940,megawatthours
+2024-11-25T22,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1536,megawatthours
+2024-11-25T22,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1538,megawatthours
+2024-11-25T22,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2498,megawatthours
+2024-11-25T22,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1797,megawatthours
+2024-11-25T22,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4305,megawatthours
+2024-11-25T22,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",3092,megawatthours
+2024-11-25T22,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4911,megawatthours
+2024-11-25T22,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2002,megawatthours
+2024-11-25T22,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4912,megawatthours
+2024-11-25T22,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",173,megawatthours
+2024-11-25T22,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T22,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,20,megawatthours
+2024-11-25T22,Frep,Freeport,PNM,Public Service Company of New Mexico,81,megawatthours
+2024-11-25T22,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T22,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,54,megawatthours
+2024-11-25T22,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,18,megawatthours
+2024-11-25T22,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,59,megawatthours
+2024-11-25T22,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,989,megawatthours
+2024-11-25T22,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,248,megawatthours
+2024-11-25T22,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,5032,megawatthours
+2024-11-25T22,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,630,megawatthours
+2024-11-25T22,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,851,megawatthours
+2024-11-25T22,INDN,Independence Power & Light,SWPP,Southwest Power Pool,105,megawatthours
+2024-11-25T22,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,253,megawatthours
+2024-11-25T22,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1893,megawatthours
+2024-11-25T22,LES,Lincoln Electric System,SWPP,Southwest Power Pool,401,megawatthours
+2024-11-25T22,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1051,megawatthours
+2024-11-25T22,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2049,megawatthours
+2024-11-25T22,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4150,megawatthours
+2024-11-25T22,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1733,megawatthours
+2024-11-25T22,SECI,Sunflower Electric,SWPP,Southwest Power Pool,653,megawatthours
+2024-11-25T22,SPRM,City of Springfield,SWPP,Southwest Power Pool,370,megawatthours
+2024-11-25T22,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3853,megawatthours
+2024-11-25T22,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4486,megawatthours
+2024-11-25T22,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1053,megawatthours
+2024-11-25T22,WR,Westar Energy,SWPP,Southwest Power Pool,3418,megawatthours
+2024-11-25T21,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,12402,megawatthours
+2024-11-25T21,SCE,Southern California Edison,CISO,California Independent System Operator,13764,megawatthours
+2024-11-25T21,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1632,megawatthours
+2024-11-25T21,VEA,Valley Electric Association,CISO,California Independent System Operator,101,megawatthours
+2024-11-25T21,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",15573,megawatthours
+2024-11-25T21,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1755,megawatthours
+2024-11-25T21,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7247,megawatthours
+2024-11-25T21,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13502,megawatthours
+2024-11-25T21,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1544,megawatthours
+2024-11-25T21,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",8703,megawatthours
+2024-11-25T21,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4761,megawatthours
+2024-11-25T21,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1083,megawatthours
+2024-11-25T21,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11301,megawatthours
+2024-11-25T21,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4867,megawatthours
+2024-11-25T21,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9751,megawatthours
+2024-11-25T21,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",18332,megawatthours
+2024-11-25T21,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",10043,megawatthours
+2024-11-25T21,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",19762,megawatthours
+2024-11-25T21,ZONA,West,NYIS,New York Independent System Operator,1737,megawatthours
+2024-11-25T21,ZONB,Genesee,NYIS,New York Independent System Operator,1107,megawatthours
+2024-11-25T21,ZONC,Central,NYIS,New York Independent System Operator,1777,megawatthours
+2024-11-25T21,ZOND,North,NYIS,New York Independent System Operator,677,megawatthours
+2024-11-25T21,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,848,megawatthours
+2024-11-25T21,ZONF,Capital,NYIS,New York Independent System Operator,1337,megawatthours
+2024-11-25T21,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1043,megawatthours
+2024-11-25T21,ZONH,Millwood,NYIS,New York Independent System Operator,290,megawatthours
+2024-11-25T21,ZONI,Dunwoodie,NYIS,New York Independent System Operator,654,megawatthours
+2024-11-25T21,ZONJ,New York City,NYIS,New York Independent System Operator,5690,megawatthours
+2024-11-25T21,ZONK,Long Island,NYIS,New York Independent System Operator,2061,megawatthours
+2024-11-25T21,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1005,megawatthours
+2024-11-25T21,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14694,megawatthours
+2024-11-25T21,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5607,megawatthours
+2024-11-25T21,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",7839,megawatthours
+2024-11-25T21,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3103,megawatthours
+2024-11-25T21,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",11064,megawatthours
+2024-11-25T21,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1928,megawatthours
+2024-11-25T21,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2787,megawatthours
+2024-11-25T21,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",13165,megawatthours
+2024-11-25T21,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1778,megawatthours
+2024-11-25T21,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1534,megawatthours
+2024-11-25T21,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1526,megawatthours
+2024-11-25T21,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2239,megawatthours
+2024-11-25T21,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1718,megawatthours
+2024-11-25T21,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4121,megawatthours
+2024-11-25T21,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2935,megawatthours
+2024-11-25T21,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4716,megawatthours
+2024-11-25T21,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1970,megawatthours
+2024-11-25T21,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4613,megawatthours
+2024-11-25T21,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",163,megawatthours
+2024-11-25T21,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T21,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,18,megawatthours
+2024-11-25T21,Frep,Freeport,PNM,Public Service Company of New Mexico,83,megawatthours
+2024-11-25T21,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T21,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,55,megawatthours
+2024-11-25T21,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,20,megawatthours
+2024-11-25T21,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,58,megawatthours
+2024-11-25T21,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,977,megawatthours
+2024-11-25T21,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,251,megawatthours
+2024-11-25T21,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,5082,megawatthours
+2024-11-25T21,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,635,megawatthours
+2024-11-25T21,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,858,megawatthours
+2024-11-25T21,INDN,Independence Power & Light,SWPP,Southwest Power Pool,102,megawatthours
+2024-11-25T21,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,260,megawatthours
+2024-11-25T21,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1897,megawatthours
+2024-11-25T21,LES,Lincoln Electric System,SWPP,Southwest Power Pool,406,megawatthours
+2024-11-25T21,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1054,megawatthours
+2024-11-25T21,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2053,megawatthours
+2024-11-25T21,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4253,megawatthours
+2024-11-25T21,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1746,megawatthours
+2024-11-25T21,SECI,Sunflower Electric,SWPP,Southwest Power Pool,650,megawatthours
+2024-11-25T21,SPRM,City of Springfield,SWPP,Southwest Power Pool,374,megawatthours
+2024-11-25T21,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3862,megawatthours
+2024-11-25T21,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4465,megawatthours
+2024-11-25T21,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1051,megawatthours
+2024-11-25T21,WR,Westar Energy,SWPP,Southwest Power Pool,3439,megawatthours
+2024-11-25T20,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,12378,megawatthours
+2024-11-25T20,SCE,Southern California Edison,CISO,California Independent System Operator,13466,megawatthours
+2024-11-25T20,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1718,megawatthours
+2024-11-25T20,VEA,Valley Electric Association,CISO,California Independent System Operator,133,megawatthours
+2024-11-25T20,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",15214,megawatthours
+2024-11-25T20,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1771,megawatthours
+2024-11-25T20,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7142,megawatthours
+2024-11-25T20,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13616,megawatthours
+2024-11-25T20,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1618,megawatthours
+2024-11-25T20,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",8533,megawatthours
+2024-11-25T20,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4660,megawatthours
+2024-11-25T20,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1124,megawatthours
+2024-11-25T20,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11416,megawatthours
+2024-11-25T20,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4852,megawatthours
+2024-11-25T20,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9870,megawatthours
+2024-11-25T20,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",18543,megawatthours
+2024-11-25T20,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",10152,megawatthours
+2024-11-25T20,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",19614,megawatthours
+2024-11-25T20,ZONA,West,NYIS,New York Independent System Operator,1689,megawatthours
+2024-11-25T20,ZONB,Genesee,NYIS,New York Independent System Operator,1024,megawatthours
+2024-11-25T20,ZONC,Central,NYIS,New York Independent System Operator,1577,megawatthours
+2024-11-25T20,ZOND,North,NYIS,New York Independent System Operator,666,megawatthours
+2024-11-25T20,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,712,megawatthours
+2024-11-25T20,ZONF,Capital,NYIS,New York Independent System Operator,1180,megawatthours
+2024-11-25T20,ZONG,Hudson Valley,NYIS,New York Independent System Operator,939,megawatthours
+2024-11-25T20,ZONH,Millwood,NYIS,New York Independent System Operator,276,megawatthours
+2024-11-25T20,ZONI,Dunwoodie,NYIS,New York Independent System Operator,642,megawatthours
+2024-11-25T20,ZONJ,New York City,NYIS,New York Independent System Operator,5637,megawatthours
+2024-11-25T20,ZONK,Long Island,NYIS,New York Independent System Operator,1935,megawatthours
+2024-11-25T20,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",886,megawatthours
+2024-11-25T20,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14743,megawatthours
+2024-11-25T20,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5647,megawatthours
+2024-11-25T20,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",7951,megawatthours
+2024-11-25T20,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",2986,megawatthours
+2024-11-25T20,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",10990,megawatthours
+2024-11-25T20,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1959,megawatthours
+2024-11-25T20,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2817,megawatthours
+2024-11-25T20,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",12948,megawatthours
+2024-11-25T20,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1685,megawatthours
+2024-11-25T20,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1555,megawatthours
+2024-11-25T20,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1551,megawatthours
+2024-11-25T20,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2089,megawatthours
+2024-11-25T20,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1699,megawatthours
+2024-11-25T20,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4106,megawatthours
+2024-11-25T20,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2850,megawatthours
+2024-11-25T20,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4694,megawatthours
+2024-11-25T20,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2025,megawatthours
+2024-11-25T20,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4383,megawatthours
+2024-11-25T20,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",159,megawatthours
+2024-11-25T20,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T20,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,20,megawatthours
+2024-11-25T20,Frep,Freeport,PNM,Public Service Company of New Mexico,80,megawatthours
+2024-11-25T20,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T20,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,55,megawatthours
+2024-11-25T20,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,21,megawatthours
+2024-11-25T20,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,60,megawatthours
+2024-11-25T20,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,944,megawatthours
+2024-11-25T20,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,251,megawatthours
+2024-11-25T20,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,5121,megawatthours
+2024-11-25T20,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,649,megawatthours
+2024-11-25T20,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,859,megawatthours
+2024-11-25T20,INDN,Independence Power & Light,SWPP,Southwest Power Pool,104,megawatthours
+2024-11-25T20,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,262,megawatthours
+2024-11-25T20,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1926,megawatthours
+2024-11-25T20,LES,Lincoln Electric System,SWPP,Southwest Power Pool,415,megawatthours
+2024-11-25T20,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1069,megawatthours
+2024-11-25T20,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2097,megawatthours
+2024-11-25T20,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4312,megawatthours
+2024-11-25T20,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1760,megawatthours
+2024-11-25T20,SECI,Sunflower Electric,SWPP,Southwest Power Pool,665,megawatthours
+2024-11-25T20,SPRM,City of Springfield,SWPP,Southwest Power Pool,375,megawatthours
+2024-11-25T20,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3876,megawatthours
+2024-11-25T20,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4489,megawatthours
+2024-11-25T20,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1065,megawatthours
+2024-11-25T20,WR,Westar Energy,SWPP,Southwest Power Pool,3511,megawatthours
+2024-11-25T19,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,12199,megawatthours
+2024-11-25T19,SCE,Southern California Edison,CISO,California Independent System Operator,13102,megawatthours
+2024-11-25T19,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1769,megawatthours
+2024-11-25T19,VEA,Valley Electric Association,CISO,California Independent System Operator,124,megawatthours
+2024-11-25T19,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",14746,megawatthours
+2024-11-25T19,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1798,megawatthours
+2024-11-25T19,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7064,megawatthours
+2024-11-25T19,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13561,megawatthours
+2024-11-25T19,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1649,megawatthours
+2024-11-25T19,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",8178,megawatthours
+2024-11-25T19,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4443,megawatthours
+2024-11-25T19,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1147,megawatthours
+2024-11-25T19,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11443,megawatthours
+2024-11-25T19,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4796,megawatthours
+2024-11-25T19,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9880,megawatthours
+2024-11-25T19,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",18589,megawatthours
+2024-11-25T19,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",10177,megawatthours
+2024-11-25T19,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",19231,megawatthours
+2024-11-25T19,ZONA,West,NYIS,New York Independent System Operator,1635,megawatthours
+2024-11-25T19,ZONB,Genesee,NYIS,New York Independent System Operator,936,megawatthours
+2024-11-25T19,ZONC,Central,NYIS,New York Independent System Operator,1466,megawatthours
+2024-11-25T19,ZOND,North,NYIS,New York Independent System Operator,646,megawatthours
+2024-11-25T19,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,638,megawatthours
+2024-11-25T19,ZONF,Capital,NYIS,New York Independent System Operator,1079,megawatthours
+2024-11-25T19,ZONG,Hudson Valley,NYIS,New York Independent System Operator,818,megawatthours
+2024-11-25T19,ZONH,Millwood,NYIS,New York Independent System Operator,270,megawatthours
+2024-11-25T19,ZONI,Dunwoodie,NYIS,New York Independent System Operator,634,megawatthours
+2024-11-25T19,ZONJ,New York City,NYIS,New York Independent System Operator,5628,megawatthours
+2024-11-25T19,ZONK,Long Island,NYIS,New York Independent System Operator,1837,megawatthours
+2024-11-25T19,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",807,megawatthours
+2024-11-25T19,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14969,megawatthours
+2024-11-25T19,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5603,megawatthours
+2024-11-25T19,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",8099,megawatthours
+2024-11-25T19,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",2912,megawatthours
+2024-11-25T19,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",10874,megawatthours
+2024-11-25T19,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1970,megawatthours
+2024-11-25T19,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2860,megawatthours
+2024-11-25T19,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",12929,megawatthours
+2024-11-25T19,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1659,megawatthours
+2024-11-25T19,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1586,megawatthours
+2024-11-25T19,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1568,megawatthours
+2024-11-25T19,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",1946,megawatthours
+2024-11-25T19,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1691,megawatthours
+2024-11-25T19,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4150,megawatthours
+2024-11-25T19,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2806,megawatthours
+2024-11-25T19,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4672,megawatthours
+2024-11-25T19,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2056,megawatthours
+2024-11-25T19,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4177,megawatthours
+2024-11-25T19,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",157,megawatthours
+2024-11-25T19,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T19,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,19,megawatthours
+2024-11-25T19,Frep,Freeport,PNM,Public Service Company of New Mexico,82,megawatthours
+2024-11-25T19,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T19,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,55,megawatthours
+2024-11-25T19,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,21,megawatthours
+2024-11-25T19,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,60,megawatthours
+2024-11-25T19,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,965,megawatthours
+2024-11-25T19,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,254,megawatthours
+2024-11-25T19,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,5134,megawatthours
+2024-11-25T19,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,648,megawatthours
+2024-11-25T19,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,858,megawatthours
+2024-11-25T19,INDN,Independence Power & Light,SWPP,Southwest Power Pool,101,megawatthours
+2024-11-25T19,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,265,megawatthours
+2024-11-25T19,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1936,megawatthours
+2024-11-25T19,LES,Lincoln Electric System,SWPP,Southwest Power Pool,422,megawatthours
+2024-11-25T19,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1082,megawatthours
+2024-11-25T19,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2123,megawatthours
+2024-11-25T19,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4356,megawatthours
+2024-11-25T19,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1786,megawatthours
+2024-11-25T19,SECI,Sunflower Electric,SWPP,Southwest Power Pool,671,megawatthours
+2024-11-25T19,SPRM,City of Springfield,SWPP,Southwest Power Pool,372,megawatthours
+2024-11-25T19,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3890,megawatthours
+2024-11-25T19,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4508,megawatthours
+2024-11-25T19,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1096,megawatthours
+2024-11-25T19,WR,Westar Energy,SWPP,Southwest Power Pool,3573,megawatthours
+2024-11-25T18,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,12010,megawatthours
+2024-11-25T18,SCE,Southern California Edison,CISO,California Independent System Operator,12607,megawatthours
+2024-11-25T18,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1921,megawatthours
+2024-11-25T18,VEA,Valley Electric Association,CISO,California Independent System Operator,121,megawatthours
+2024-11-25T18,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",14205,megawatthours
+2024-11-25T18,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1753,megawatthours
+2024-11-25T18,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7396,megawatthours
+2024-11-25T18,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13346,megawatthours
+2024-11-25T18,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1588,megawatthours
+2024-11-25T18,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",7793,megawatthours
+2024-11-25T18,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4237,megawatthours
+2024-11-25T18,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1245,megawatthours
+2024-11-25T18,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11650,megawatthours
+2024-11-25T18,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4715,megawatthours
+2024-11-25T18,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9896,megawatthours
+2024-11-25T18,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",18574,megawatthours
+2024-11-25T18,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",10209,megawatthours
+2024-11-25T18,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",18870,megawatthours
+2024-11-25T18,ZONA,West,NYIS,New York Independent System Operator,1598,megawatthours
+2024-11-25T18,ZONB,Genesee,NYIS,New York Independent System Operator,933,megawatthours
+2024-11-25T18,ZONC,Central,NYIS,New York Independent System Operator,1414,megawatthours
+2024-11-25T18,ZOND,North,NYIS,New York Independent System Operator,666,megawatthours
+2024-11-25T18,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,626,megawatthours
+2024-11-25T18,ZONF,Capital,NYIS,New York Independent System Operator,1027,megawatthours
+2024-11-25T18,ZONG,Hudson Valley,NYIS,New York Independent System Operator,768,megawatthours
+2024-11-25T18,ZONH,Millwood,NYIS,New York Independent System Operator,268,megawatthours
+2024-11-25T18,ZONI,Dunwoodie,NYIS,New York Independent System Operator,624,megawatthours
+2024-11-25T18,ZONJ,New York City,NYIS,New York Independent System Operator,5614,megawatthours
+2024-11-25T18,ZONK,Long Island,NYIS,New York Independent System Operator,1774,megawatthours
+2024-11-25T18,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",762,megawatthours
+2024-11-25T18,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",15114,megawatthours
+2024-11-25T18,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5597,megawatthours
+2024-11-25T18,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",8116,megawatthours
+2024-11-25T18,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",2913,megawatthours
+2024-11-25T18,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",10825,megawatthours
+2024-11-25T18,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1964,megawatthours
+2024-11-25T18,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2867,megawatthours
+2024-11-25T18,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",13021,megawatthours
+2024-11-25T18,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1672,megawatthours
+2024-11-25T18,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1599,megawatthours
+2024-11-25T18,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1513,megawatthours
+2024-11-25T18,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",1876,megawatthours
+2024-11-25T18,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1690,megawatthours
+2024-11-25T18,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4178,megawatthours
+2024-11-25T18,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2803,megawatthours
+2024-11-25T18,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4691,megawatthours
+2024-11-25T18,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2068,megawatthours
+2024-11-25T18,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4064,megawatthours
+2024-11-25T18,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",155,megawatthours
+2024-11-25T18,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T18,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,19,megawatthours
+2024-11-25T18,Frep,Freeport,PNM,Public Service Company of New Mexico,81,megawatthours
+2024-11-25T18,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T18,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,55,megawatthours
+2024-11-25T18,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,20,megawatthours
+2024-11-25T18,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,60,megawatthours
+2024-11-25T18,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,999,megawatthours
+2024-11-25T18,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,262,megawatthours
+2024-11-25T18,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,5117,megawatthours
+2024-11-25T18,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,642,megawatthours
+2024-11-25T18,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,861,megawatthours
+2024-11-25T18,INDN,Independence Power & Light,SWPP,Southwest Power Pool,105,megawatthours
+2024-11-25T18,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,267,megawatthours
+2024-11-25T18,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1949,megawatthours
+2024-11-25T18,LES,Lincoln Electric System,SWPP,Southwest Power Pool,428,megawatthours
+2024-11-25T18,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1100,megawatthours
+2024-11-25T18,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2170,megawatthours
+2024-11-25T18,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4451,megawatthours
+2024-11-25T18,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1797,megawatthours
+2024-11-25T18,SECI,Sunflower Electric,SWPP,Southwest Power Pool,685,megawatthours
+2024-11-25T18,SPRM,City of Springfield,SWPP,Southwest Power Pool,365,megawatthours
+2024-11-25T18,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3908,megawatthours
+2024-11-25T18,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4599,megawatthours
+2024-11-25T18,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1133,megawatthours
+2024-11-25T18,WR,Westar Energy,SWPP,Southwest Power Pool,3636,megawatthours
+2024-11-25T17,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,11528,megawatthours
+2024-11-25T17,SCE,Southern California Edison,CISO,California Independent System Operator,11420,megawatthours
+2024-11-25T17,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2164,megawatthours
+2024-11-25T17,VEA,Valley Electric Association,CISO,California Independent System Operator,91,megawatthours
+2024-11-25T17,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",13636,megawatthours
+2024-11-25T17,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1720,megawatthours
+2024-11-25T17,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7459,megawatthours
+2024-11-25T17,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13166,megawatthours
+2024-11-25T17,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1572,megawatthours
+2024-11-25T17,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",7500,megawatthours
+2024-11-25T17,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4044,megawatthours
+2024-11-25T17,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1263,megawatthours
+2024-11-25T17,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11893,megawatthours
+2024-11-25T17,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4706,megawatthours
+2024-11-25T17,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9924,megawatthours
+2024-11-25T17,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",18564,megawatthours
+2024-11-25T17,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",10176,megawatthours
+2024-11-25T17,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",18528,megawatthours
+2024-11-25T17,ZONA,West,NYIS,New York Independent System Operator,1581,megawatthours
+2024-11-25T17,ZONB,Genesee,NYIS,New York Independent System Operator,930,megawatthours
+2024-11-25T17,ZONC,Central,NYIS,New York Independent System Operator,1449,megawatthours
+2024-11-25T17,ZOND,North,NYIS,New York Independent System Operator,664,megawatthours
+2024-11-25T17,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,634,megawatthours
+2024-11-25T17,ZONF,Capital,NYIS,New York Independent System Operator,1032,megawatthours
+2024-11-25T17,ZONG,Hudson Valley,NYIS,New York Independent System Operator,779,megawatthours
+2024-11-25T17,ZONH,Millwood,NYIS,New York Independent System Operator,268,megawatthours
+2024-11-25T17,ZONI,Dunwoodie,NYIS,New York Independent System Operator,628,megawatthours
+2024-11-25T17,ZONJ,New York City,NYIS,New York Independent System Operator,5610,megawatthours
+2024-11-25T17,ZONK,Long Island,NYIS,New York Independent System Operator,1769,megawatthours
+2024-11-25T17,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",764,megawatthours
+2024-11-25T17,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",15360,megawatthours
+2024-11-25T17,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5678,megawatthours
+2024-11-25T17,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",8124,megawatthours
+2024-11-25T17,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",2973,megawatthours
+2024-11-25T17,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",10768,megawatthours
+2024-11-25T17,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1959,megawatthours
+2024-11-25T17,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2849,megawatthours
+2024-11-25T17,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",13280,megawatthours
+2024-11-25T17,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1719,megawatthours
+2024-11-25T17,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1622,megawatthours
+2024-11-25T17,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1588,megawatthours
+2024-11-25T17,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",1900,megawatthours
+2024-11-25T17,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1721,megawatthours
+2024-11-25T17,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4225,megawatthours
+2024-11-25T17,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2842,megawatthours
+2024-11-25T17,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4775,megawatthours
+2024-11-25T17,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2109,megawatthours
+2024-11-25T17,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4096,megawatthours
+2024-11-25T17,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",155,megawatthours
+2024-11-25T17,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T17,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,20,megawatthours
+2024-11-25T17,Frep,Freeport,PNM,Public Service Company of New Mexico,82,megawatthours
+2024-11-25T17,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T17,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,55,megawatthours
+2024-11-25T17,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,18,megawatthours
+2024-11-25T17,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,61,megawatthours
+2024-11-25T17,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1047,megawatthours
+2024-11-25T17,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,277,megawatthours
+2024-11-25T17,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,5036,megawatthours
+2024-11-25T17,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,633,megawatthours
+2024-11-25T17,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,869,megawatthours
+2024-11-25T17,INDN,Independence Power & Light,SWPP,Southwest Power Pool,108,megawatthours
+2024-11-25T17,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,282,megawatthours
+2024-11-25T17,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1952,megawatthours
+2024-11-25T17,LES,Lincoln Electric System,SWPP,Southwest Power Pool,432,megawatthours
+2024-11-25T17,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1124,megawatthours
+2024-11-25T17,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2203,megawatthours
+2024-11-25T17,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4489,megawatthours
+2024-11-25T17,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1799,megawatthours
+2024-11-25T17,SECI,Sunflower Electric,SWPP,Southwest Power Pool,694,megawatthours
+2024-11-25T17,SPRM,City of Springfield,SWPP,Southwest Power Pool,358,megawatthours
+2024-11-25T17,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3919,megawatthours
+2024-11-25T17,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4608,megawatthours
+2024-11-25T17,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1145,megawatthours
+2024-11-25T17,WR,Westar Energy,SWPP,Southwest Power Pool,3670,megawatthours
+2024-11-25T16,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,10877,megawatthours
+2024-11-25T16,SCE,Southern California Edison,CISO,California Independent System Operator,10721,megawatthours
+2024-11-25T16,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2203,megawatthours
+2024-11-25T16,VEA,Valley Electric Association,CISO,California Independent System Operator,90,megawatthours
+2024-11-25T16,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",13028,megawatthours
+2024-11-25T16,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1669,megawatthours
+2024-11-25T16,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7647,megawatthours
+2024-11-25T16,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",12897,megawatthours
+2024-11-25T16,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1551,megawatthours
+2024-11-25T16,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",7163,megawatthours
+2024-11-25T16,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3798,megawatthours
+2024-11-25T16,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1279,megawatthours
+2024-11-25T16,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11957,megawatthours
+2024-11-25T16,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4712,megawatthours
+2024-11-25T16,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",10042,megawatthours
+2024-11-25T16,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",18443,megawatthours
+2024-11-25T16,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",10117,megawatthours
+2024-11-25T16,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",17944,megawatthours
+2024-11-25T16,ZONA,West,NYIS,New York Independent System Operator,1617,megawatthours
+2024-11-25T16,ZONB,Genesee,NYIS,New York Independent System Operator,950,megawatthours
+2024-11-25T16,ZONC,Central,NYIS,New York Independent System Operator,1529,megawatthours
+2024-11-25T16,ZOND,North,NYIS,New York Independent System Operator,647,megawatthours
+2024-11-25T16,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,662,megawatthours
+2024-11-25T16,ZONF,Capital,NYIS,New York Independent System Operator,1064,megawatthours
+2024-11-25T16,ZONG,Hudson Valley,NYIS,New York Independent System Operator,818,megawatthours
+2024-11-25T16,ZONH,Millwood,NYIS,New York Independent System Operator,280,megawatthours
+2024-11-25T16,ZONI,Dunwoodie,NYIS,New York Independent System Operator,635,megawatthours
+2024-11-25T16,ZONJ,New York City,NYIS,New York Independent System Operator,5595,megawatthours
+2024-11-25T16,ZONK,Long Island,NYIS,New York Independent System Operator,1816,megawatthours
+2024-11-25T16,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",817,megawatthours
+2024-11-25T16,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",15563,megawatthours
+2024-11-25T16,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5916,megawatthours
+2024-11-25T16,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",8171,megawatthours
+2024-11-25T16,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3079,megawatthours
+2024-11-25T16,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",10695,megawatthours
+2024-11-25T16,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1984,megawatthours
+2024-11-25T16,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2885,megawatthours
+2024-11-25T16,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",13685,megawatthours
+2024-11-25T16,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1800,megawatthours
+2024-11-25T16,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1620,megawatthours
+2024-11-25T16,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1599,megawatthours
+2024-11-25T16,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",1980,megawatthours
+2024-11-25T16,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1754,megawatthours
+2024-11-25T16,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4277,megawatthours
+2024-11-25T16,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2945,megawatthours
+2024-11-25T16,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4942,megawatthours
+2024-11-25T16,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2038,megawatthours
+2024-11-25T16,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4167,megawatthours
+2024-11-25T16,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",156,megawatthours
+2024-11-25T16,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T16,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,20,megawatthours
+2024-11-25T16,Frep,Freeport,PNM,Public Service Company of New Mexico,83,megawatthours
+2024-11-25T16,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T16,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,54,megawatthours
+2024-11-25T16,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,22,megawatthours
+2024-11-25T16,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,62,megawatthours
+2024-11-25T16,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1110,megawatthours
+2024-11-25T16,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,291,megawatthours
+2024-11-25T16,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4906,megawatthours
+2024-11-25T16,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,621,megawatthours
+2024-11-25T16,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,861,megawatthours
+2024-11-25T16,INDN,Independence Power & Light,SWPP,Southwest Power Pool,110,megawatthours
+2024-11-25T16,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,285,megawatthours
+2024-11-25T16,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1962,megawatthours
+2024-11-25T16,LES,Lincoln Electric System,SWPP,Southwest Power Pool,438,megawatthours
+2024-11-25T16,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1117,megawatthours
+2024-11-25T16,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2245,megawatthours
+2024-11-25T16,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4352,megawatthours
+2024-11-25T16,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1807,megawatthours
+2024-11-25T16,SECI,Sunflower Electric,SWPP,Southwest Power Pool,719,megawatthours
+2024-11-25T16,SPRM,City of Springfield,SWPP,Southwest Power Pool,351,megawatthours
+2024-11-25T16,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3953,megawatthours
+2024-11-25T16,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4688,megawatthours
+2024-11-25T16,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1138,megawatthours
+2024-11-25T16,WR,Westar Energy,SWPP,Southwest Power Pool,3679,megawatthours
+2024-11-25T15,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,9820,megawatthours
+2024-11-25T15,SCE,Southern California Edison,CISO,California Independent System Operator,10462,megawatthours
+2024-11-25T15,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2139,megawatthours
+2024-11-25T15,VEA,Valley Electric Association,CISO,California Independent System Operator,84,megawatthours
+2024-11-25T15,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",12317,megawatthours
+2024-11-25T15,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1557,megawatthours
+2024-11-25T15,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7144,megawatthours
+2024-11-25T15,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",12522,megawatthours
+2024-11-25T15,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1732,megawatthours
+2024-11-25T15,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",6991,megawatthours
+2024-11-25T15,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3503,megawatthours
+2024-11-25T15,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1302,megawatthours
+2024-11-25T15,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11966,megawatthours
+2024-11-25T15,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4705,megawatthours
+2024-11-25T15,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",10026,megawatthours
+2024-11-25T15,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",18153,megawatthours
+2024-11-25T15,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",9988,megawatthours
+2024-11-25T15,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",17664,megawatthours
+2024-11-25T15,ZONA,West,NYIS,New York Independent System Operator,1657,megawatthours
+2024-11-25T15,ZONB,Genesee,NYIS,New York Independent System Operator,1008,megawatthours
+2024-11-25T15,ZONC,Central,NYIS,New York Independent System Operator,1623,megawatthours
+2024-11-25T15,ZOND,North,NYIS,New York Independent System Operator,687,megawatthours
+2024-11-25T15,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,711,megawatthours
+2024-11-25T15,ZONF,Capital,NYIS,New York Independent System Operator,1149,megawatthours
+2024-11-25T15,ZONG,Hudson Valley,NYIS,New York Independent System Operator,905,megawatthours
+2024-11-25T15,ZONH,Millwood,NYIS,New York Independent System Operator,289,megawatthours
+2024-11-25T15,ZONI,Dunwoodie,NYIS,New York Independent System Operator,647,megawatthours
+2024-11-25T15,ZONJ,New York City,NYIS,New York Independent System Operator,5583,megawatthours
+2024-11-25T15,ZONK,Long Island,NYIS,New York Independent System Operator,1903,megawatthours
+2024-11-25T15,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",894,megawatthours
+2024-11-25T15,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",15960,megawatthours
+2024-11-25T15,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",6103,megawatthours
+2024-11-25T15,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",8224,megawatthours
+2024-11-25T15,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3271,megawatthours
+2024-11-25T15,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",10580,megawatthours
+2024-11-25T15,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1971,megawatthours
+2024-11-25T15,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2883,megawatthours
+2024-11-25T15,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",14272,megawatthours
+2024-11-25T15,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1933,megawatthours
+2024-11-25T15,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1621,megawatthours
+2024-11-25T15,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1570,megawatthours
+2024-11-25T15,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2113,megawatthours
+2024-11-25T15,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1799,megawatthours
+2024-11-25T15,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4377,megawatthours
+2024-11-25T15,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",3123,megawatthours
+2024-11-25T15,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",5094,megawatthours
+2024-11-25T15,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2063,megawatthours
+2024-11-25T15,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4323,megawatthours
+2024-11-25T15,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",160,megawatthours
+2024-11-25T15,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T15,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,23,megawatthours
+2024-11-25T15,Frep,Freeport,PNM,Public Service Company of New Mexico,80,megawatthours
+2024-11-25T15,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T15,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,54,megawatthours
+2024-11-25T15,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,40,megawatthours
+2024-11-25T15,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,62,megawatthours
+2024-11-25T15,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1154,megawatthours
+2024-11-25T15,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,292,megawatthours
+2024-11-25T15,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4752,megawatthours
+2024-11-25T15,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,600,megawatthours
+2024-11-25T15,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,841,megawatthours
+2024-11-25T15,INDN,Independence Power & Light,SWPP,Southwest Power Pool,108,megawatthours
+2024-11-25T15,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,281,megawatthours
+2024-11-25T15,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1933,megawatthours
+2024-11-25T15,LES,Lincoln Electric System,SWPP,Southwest Power Pool,446,megawatthours
+2024-11-25T15,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1099,megawatthours
+2024-11-25T15,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2282,megawatthours
+2024-11-25T15,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4230,megawatthours
+2024-11-25T15,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1813,megawatthours
+2024-11-25T15,SECI,Sunflower Electric,SWPP,Southwest Power Pool,711,megawatthours
+2024-11-25T15,SPRM,City of Springfield,SWPP,Southwest Power Pool,342,megawatthours
+2024-11-25T15,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3941,megawatthours
+2024-11-25T15,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4714,megawatthours
+2024-11-25T15,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1116,megawatthours
+2024-11-25T15,WR,Westar Energy,SWPP,Southwest Power Pool,3674,megawatthours
+2024-11-25T14,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,9444,megawatthours
+2024-11-25T14,SCE,Southern California Edison,CISO,California Independent System Operator,9757,megawatthours
+2024-11-25T14,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1995,megawatthours
+2024-11-25T14,VEA,Valley Electric Association,CISO,California Independent System Operator,78,megawatthours
+2024-11-25T14,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",11560,megawatthours
+2024-11-25T14,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1498,megawatthours
+2024-11-25T14,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6779,megawatthours
+2024-11-25T14,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",11953,megawatthours
+2024-11-25T14,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1291,megawatthours
+2024-11-25T14,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",6614,megawatthours
+2024-11-25T14,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3230,megawatthours
+2024-11-25T14,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1045,megawatthours
+2024-11-25T14,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11793,megawatthours
+2024-11-25T14,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4648,megawatthours
+2024-11-25T14,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9889,megawatthours
+2024-11-25T14,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",17965,megawatthours
+2024-11-25T14,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",9790,megawatthours
+2024-11-25T14,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",17197,megawatthours
+2024-11-25T14,ZONA,West,NYIS,New York Independent System Operator,1730,megawatthours
+2024-11-25T14,ZONB,Genesee,NYIS,New York Independent System Operator,1103,megawatthours
+2024-11-25T14,ZONC,Central,NYIS,New York Independent System Operator,1801,megawatthours
+2024-11-25T14,ZOND,North,NYIS,New York Independent System Operator,680,megawatthours
+2024-11-25T14,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,845,megawatthours
+2024-11-25T14,ZONF,Capital,NYIS,New York Independent System Operator,1313,megawatthours
+2024-11-25T14,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1018,megawatthours
+2024-11-25T14,ZONH,Millwood,NYIS,New York Independent System Operator,305,megawatthours
+2024-11-25T14,ZONI,Dunwoodie,NYIS,New York Independent System Operator,651,megawatthours
+2024-11-25T14,ZONJ,New York City,NYIS,New York Independent System Operator,5470,megawatthours
+2024-11-25T14,ZONK,Long Island,NYIS,New York Independent System Operator,2016,megawatthours
+2024-11-25T14,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1013,megawatthours
+2024-11-25T14,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",16303,megawatthours
+2024-11-25T14,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",6372,megawatthours
+2024-11-25T14,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",8150,megawatthours
+2024-11-25T14,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3571,megawatthours
+2024-11-25T14,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",10394,megawatthours
+2024-11-25T14,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1946,megawatthours
+2024-11-25T14,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2852,megawatthours
+2024-11-25T14,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",15383,megawatthours
+2024-11-25T14,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",2142,megawatthours
+2024-11-25T14,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1592,megawatthours
+2024-11-25T14,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1611,megawatthours
+2024-11-25T14,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2309,megawatthours
+2024-11-25T14,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1877,megawatthours
+2024-11-25T14,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4493,megawatthours
+2024-11-25T14,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",3367,megawatthours
+2024-11-25T14,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",5247,megawatthours
+2024-11-25T14,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2142,megawatthours
+2024-11-25T14,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4551,megawatthours
+2024-11-25T14,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",162,megawatthours
+2024-11-25T14,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T14,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,21,megawatthours
+2024-11-25T14,Frep,Freeport,PNM,Public Service Company of New Mexico,83,megawatthours
+2024-11-25T14,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T14,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,52,megawatthours
+2024-11-25T14,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,41,megawatthours
+2024-11-25T14,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,62,megawatthours
+2024-11-25T14,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1166,megawatthours
+2024-11-25T14,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,294,megawatthours
+2024-11-25T14,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4559,megawatthours
+2024-11-25T14,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,577,megawatthours
+2024-11-25T14,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,826,megawatthours
+2024-11-25T14,INDN,Independence Power & Light,SWPP,Southwest Power Pool,104,megawatthours
+2024-11-25T14,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,275,megawatthours
+2024-11-25T14,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1856,megawatthours
+2024-11-25T14,LES,Lincoln Electric System,SWPP,Southwest Power Pool,435,megawatthours
+2024-11-25T14,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1071,megawatthours
+2024-11-25T14,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2318,megawatthours
+2024-11-25T14,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,4081,megawatthours
+2024-11-25T14,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1794,megawatthours
+2024-11-25T14,SECI,Sunflower Electric,SWPP,Southwest Power Pool,692,megawatthours
+2024-11-25T14,SPRM,City of Springfield,SWPP,Southwest Power Pool,332,megawatthours
+2024-11-25T14,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3919,megawatthours
+2024-11-25T14,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4709,megawatthours
+2024-11-25T14,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1081,megawatthours
+2024-11-25T14,WR,Westar Energy,SWPP,Southwest Power Pool,3584,megawatthours
+2024-11-25T13,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,9750,megawatthours
+2024-11-25T13,SCE,Southern California Edison,CISO,California Independent System Operator,9399,megawatthours
+2024-11-25T13,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1991,megawatthours
+2024-11-25T13,VEA,Valley Electric Association,CISO,California Independent System Operator,73,megawatthours
+2024-11-25T13,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",11292,megawatthours
+2024-11-25T13,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1461,megawatthours
+2024-11-25T13,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6965,megawatthours
+2024-11-25T13,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",11500,megawatthours
+2024-11-25T13,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1262,megawatthours
+2024-11-25T13,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",6354,megawatthours
+2024-11-25T13,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3212,megawatthours
+2024-11-25T13,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",995,megawatthours
+2024-11-25T13,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11064,megawatthours
+2024-11-25T13,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4403,megawatthours
+2024-11-25T13,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9907,megawatthours
+2024-11-25T13,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",17273,megawatthours
+2024-11-25T13,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",9222,megawatthours
+2024-11-25T13,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",16629,megawatthours
+2024-11-25T13,ZONA,West,NYIS,New York Independent System Operator,1713,megawatthours
+2024-11-25T13,ZONB,Genesee,NYIS,New York Independent System Operator,1146,megawatthours
+2024-11-25T13,ZONC,Central,NYIS,New York Independent System Operator,1928,megawatthours
+2024-11-25T13,ZOND,North,NYIS,New York Independent System Operator,695,megawatthours
+2024-11-25T13,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,945,megawatthours
+2024-11-25T13,ZONF,Capital,NYIS,New York Independent System Operator,1428,megawatthours
+2024-11-25T13,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1097,megawatthours
+2024-11-25T13,ZONH,Millwood,NYIS,New York Independent System Operator,316,megawatthours
+2024-11-25T13,ZONI,Dunwoodie,NYIS,New York Independent System Operator,655,megawatthours
+2024-11-25T13,ZONJ,New York City,NYIS,New York Independent System Operator,5242,megawatthours
+2024-11-25T13,ZONK,Long Island,NYIS,New York Independent System Operator,2085,megawatthours
+2024-11-25T13,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1112,megawatthours
+2024-11-25T13,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",16374,megawatthours
+2024-11-25T13,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",6551,megawatthours
+2024-11-25T13,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",7967,megawatthours
+2024-11-25T13,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3748,megawatthours
+2024-11-25T13,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",9867,megawatthours
+2024-11-25T13,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1916,megawatthours
+2024-11-25T13,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2794,megawatthours
+2024-11-25T13,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",16097,megawatthours
+2024-11-25T13,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",2328,megawatthours
+2024-11-25T13,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1543,megawatthours
+2024-11-25T13,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1663,megawatthours
+2024-11-25T13,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2437,megawatthours
+2024-11-25T13,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1911,megawatthours
+2024-11-25T13,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4515,megawatthours
+2024-11-25T13,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",3494,megawatthours
+2024-11-25T13,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",5351,megawatthours
+2024-11-25T13,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2139,megawatthours
+2024-11-25T13,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4675,megawatthours
+2024-11-25T13,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",160,megawatthours
+2024-11-25T13,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T13,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,20,megawatthours
+2024-11-25T13,Frep,Freeport,PNM,Public Service Company of New Mexico,81,megawatthours
+2024-11-25T13,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T13,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,51,megawatthours
+2024-11-25T13,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,40,megawatthours
+2024-11-25T13,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,58,megawatthours
+2024-11-25T13,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1107,megawatthours
+2024-11-25T13,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,274,megawatthours
+2024-11-25T13,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4314,megawatthours
+2024-11-25T13,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,537,megawatthours
+2024-11-25T13,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,812,megawatthours
+2024-11-25T13,INDN,Independence Power & Light,SWPP,Southwest Power Pool,98,megawatthours
+2024-11-25T13,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,263,megawatthours
+2024-11-25T13,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1727,megawatthours
+2024-11-25T13,LES,Lincoln Electric System,SWPP,Southwest Power Pool,401,megawatthours
+2024-11-25T13,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,1011,megawatthours
+2024-11-25T13,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2202,megawatthours
+2024-11-25T13,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3878,megawatthours
+2024-11-25T13,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1698,megawatthours
+2024-11-25T13,SECI,Sunflower Electric,SWPP,Southwest Power Pool,667,megawatthours
+2024-11-25T13,SPRM,City of Springfield,SWPP,Southwest Power Pool,308,megawatthours
+2024-11-25T13,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3796,megawatthours
+2024-11-25T13,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4559,megawatthours
+2024-11-25T13,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1022,megawatthours
+2024-11-25T13,WR,Westar Energy,SWPP,Southwest Power Pool,3362,megawatthours
+2024-11-25T12,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,9938,megawatthours
+2024-11-25T12,SCE,Southern California Edison,CISO,California Independent System Operator,9488,megawatthours
+2024-11-25T12,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1996,megawatthours
+2024-11-25T12,VEA,Valley Electric Association,CISO,California Independent System Operator,70,megawatthours
+2024-11-25T12,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",10862,megawatthours
+2024-11-25T12,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1370,megawatthours
+2024-11-25T12,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6826,megawatthours
+2024-11-25T12,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",10682,megawatthours
+2024-11-25T12,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1395,megawatthours
+2024-11-25T12,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",5949,megawatthours
+2024-11-25T12,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3170,megawatthours
+2024-11-25T12,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1002,megawatthours
+2024-11-25T12,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",10193,megawatthours
+2024-11-25T12,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4106,megawatthours
+2024-11-25T12,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9340,megawatthours
+2024-11-25T12,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",15883,megawatthours
+2024-11-25T12,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",8477,megawatthours
+2024-11-25T12,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",15840,megawatthours
+2024-11-25T12,ZONA,West,NYIS,New York Independent System Operator,1643,megawatthours
+2024-11-25T12,ZONB,Genesee,NYIS,New York Independent System Operator,1090,megawatthours
+2024-11-25T12,ZONC,Central,NYIS,New York Independent System Operator,1852,megawatthours
+2024-11-25T12,ZOND,North,NYIS,New York Independent System Operator,684,megawatthours
+2024-11-25T12,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,922,megawatthours
+2024-11-25T12,ZONF,Capital,NYIS,New York Independent System Operator,1368,megawatthours
+2024-11-25T12,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1050,megawatthours
+2024-11-25T12,ZONH,Millwood,NYIS,New York Independent System Operator,295,megawatthours
+2024-11-25T12,ZONI,Dunwoodie,NYIS,New York Independent System Operator,593,megawatthours
+2024-11-25T12,ZONJ,New York City,NYIS,New York Independent System Operator,4846,megawatthours
+2024-11-25T12,ZONK,Long Island,NYIS,New York Independent System Operator,1985,megawatthours
+2024-11-25T12,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1094,megawatthours
+2024-11-25T12,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",15909,megawatthours
+2024-11-25T12,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",6334,megawatthours
+2024-11-25T12,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",7549,megawatthours
+2024-11-25T12,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3597,megawatthours
+2024-11-25T12,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",9024,megawatthours
+2024-11-25T12,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1802,megawatthours
+2024-11-25T12,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2679,megawatthours
+2024-11-25T12,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",15478,megawatthours
+2024-11-25T12,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",2261,megawatthours
+2024-11-25T12,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1469,megawatthours
+2024-11-25T12,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1631,megawatthours
+2024-11-25T12,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2337,megawatthours
+2024-11-25T12,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1817,megawatthours
+2024-11-25T12,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4320,megawatthours
+2024-11-25T12,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",3310,megawatthours
+2024-11-25T12,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",5058,megawatthours
+2024-11-25T12,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",2045,megawatthours
+2024-11-25T12,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4480,megawatthours
+2024-11-25T12,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",149,megawatthours
+2024-11-25T12,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T12,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,19,megawatthours
+2024-11-25T12,Frep,Freeport,PNM,Public Service Company of New Mexico,82,megawatthours
+2024-11-25T12,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T12,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,49,megawatthours
+2024-11-25T12,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,38,megawatthours
+2024-11-25T12,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,57,megawatthours
+2024-11-25T12,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1050,megawatthours
+2024-11-25T12,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,263,megawatthours
+2024-11-25T12,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,3997,megawatthours
+2024-11-25T12,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,473,megawatthours
+2024-11-25T12,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,794,megawatthours
+2024-11-25T12,INDN,Independence Power & Light,SWPP,Southwest Power Pool,88,megawatthours
+2024-11-25T12,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,240,megawatthours
+2024-11-25T12,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1567,megawatthours
+2024-11-25T12,LES,Lincoln Electric System,SWPP,Southwest Power Pool,354,megawatthours
+2024-11-25T12,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,911,megawatthours
+2024-11-25T12,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2014,megawatthours
+2024-11-25T12,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3637,megawatthours
+2024-11-25T12,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1577,megawatthours
+2024-11-25T12,SECI,Sunflower Electric,SWPP,Southwest Power Pool,627,megawatthours
+2024-11-25T12,SPRM,City of Springfield,SWPP,Southwest Power Pool,282,megawatthours
+2024-11-25T12,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3690,megawatthours
+2024-11-25T12,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4433,megawatthours
+2024-11-25T12,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,961,megawatthours
+2024-11-25T12,WR,Westar Energy,SWPP,Southwest Power Pool,3108,megawatthours
+2024-11-25T11,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,10003,megawatthours
+2024-11-25T11,SCE,Southern California Edison,CISO,California Independent System Operator,9421,megawatthours
+2024-11-25T11,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2003,megawatthours
+2024-11-25T11,VEA,Valley Electric Association,CISO,California Independent System Operator,68,megawatthours
+2024-11-25T11,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",10538,megawatthours
+2024-11-25T11,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1301,megawatthours
+2024-11-25T11,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6655,megawatthours
+2024-11-25T11,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",10271,megawatthours
+2024-11-25T11,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1267,megawatthours
+2024-11-25T11,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",5755,megawatthours
+2024-11-25T11,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3082,megawatthours
+2024-11-25T11,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1005,megawatthours
+2024-11-25T11,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",9626,megawatthours
+2024-11-25T11,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",3927,megawatthours
+2024-11-25T11,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",8647,megawatthours
+2024-11-25T11,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",14857,megawatthours
+2024-11-25T11,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",8021,megawatthours
+2024-11-25T11,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",15228,megawatthours
+2024-11-25T11,ZONA,West,NYIS,New York Independent System Operator,1524,megawatthours
+2024-11-25T11,ZONB,Genesee,NYIS,New York Independent System Operator,989,megawatthours
+2024-11-25T11,ZONC,Central,NYIS,New York Independent System Operator,1631,megawatthours
+2024-11-25T11,ZOND,North,NYIS,New York Independent System Operator,661,megawatthours
+2024-11-25T11,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,823,megawatthours
+2024-11-25T11,ZONF,Capital,NYIS,New York Independent System Operator,1238,megawatthours
+2024-11-25T11,ZONG,Hudson Valley,NYIS,New York Independent System Operator,944,megawatthours
+2024-11-25T11,ZONH,Millwood,NYIS,New York Independent System Operator,263,megawatthours
+2024-11-25T11,ZONI,Dunwoodie,NYIS,New York Independent System Operator,540,megawatthours
+2024-11-25T11,ZONJ,New York City,NYIS,New York Independent System Operator,4398,megawatthours
+2024-11-25T11,ZONK,Long Island,NYIS,New York Independent System Operator,1790,megawatthours
+2024-11-25T11,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",997,megawatthours
+2024-11-25T11,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14908,megawatthours
+2024-11-25T11,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5924,megawatthours
+2024-11-25T11,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",6973,megawatthours
+2024-11-25T11,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3234,megawatthours
+2024-11-25T11,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",8431,megawatthours
+2024-11-25T11,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1661,megawatthours
+2024-11-25T11,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2465,megawatthours
+2024-11-25T11,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",14244,megawatthours
+2024-11-25T11,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",2033,megawatthours
+2024-11-25T11,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1388,megawatthours
+2024-11-25T11,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1599,megawatthours
+2024-11-25T11,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2114,megawatthours
+2024-11-25T11,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1647,megawatthours
+2024-11-25T11,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",3872,megawatthours
+2024-11-25T11,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2930,megawatthours
+2024-11-25T11,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4550,megawatthours
+2024-11-25T11,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1873,megawatthours
+2024-11-25T11,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4107,megawatthours
+2024-11-25T11,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",136,megawatthours
+2024-11-25T11,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T11,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,18,megawatthours
+2024-11-25T11,Frep,Freeport,PNM,Public Service Company of New Mexico,82,megawatthours
+2024-11-25T11,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T11,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,47,megawatthours
+2024-11-25T11,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,37,megawatthours
+2024-11-25T11,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,56,megawatthours
+2024-11-25T11,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1014,megawatthours
+2024-11-25T11,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,254,megawatthours
+2024-11-25T11,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,3826,megawatthours
+2024-11-25T11,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,435,megawatthours
+2024-11-25T11,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,783,megawatthours
+2024-11-25T11,INDN,Independence Power & Light,SWPP,Southwest Power Pool,82,megawatthours
+2024-11-25T11,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,231,megawatthours
+2024-11-25T11,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1457,megawatthours
+2024-11-25T11,LES,Lincoln Electric System,SWPP,Southwest Power Pool,328,megawatthours
+2024-11-25T11,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,843,megawatthours
+2024-11-25T11,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,1926,megawatthours
+2024-11-25T11,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3473,megawatthours
+2024-11-25T11,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1497,megawatthours
+2024-11-25T11,SECI,Sunflower Electric,SWPP,Southwest Power Pool,601,megawatthours
+2024-11-25T11,SPRM,City of Springfield,SWPP,Southwest Power Pool,265,megawatthours
+2024-11-25T11,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3609,megawatthours
+2024-11-25T11,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4334,megawatthours
+2024-11-25T11,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,916,megawatthours
+2024-11-25T11,WR,Westar Energy,SWPP,Southwest Power Pool,2920,megawatthours
+2024-11-25T10,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,10031,megawatthours
+2024-11-25T10,SCE,Southern California Edison,CISO,California Independent System Operator,9867,megawatthours
+2024-11-25T10,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2069,megawatthours
+2024-11-25T10,VEA,Valley Electric Association,CISO,California Independent System Operator,67,megawatthours
+2024-11-25T10,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",10429,megawatthours
+2024-11-25T10,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1274,megawatthours
+2024-11-25T10,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6694,megawatthours
+2024-11-25T10,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",10218,megawatthours
+2024-11-25T10,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1087,megawatthours
+2024-11-25T10,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",5633,megawatthours
+2024-11-25T10,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3158,megawatthours
+2024-11-25T10,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",956,megawatthours
+2024-11-25T10,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",9406,megawatthours
+2024-11-25T10,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",3844,megawatthours
+2024-11-25T10,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",8238,megawatthours
+2024-11-25T10,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",15344,megawatthours
+2024-11-25T10,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",7817,megawatthours
+2024-11-25T10,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",15058,megawatthours
+2024-11-25T10,ZONA,West,NYIS,New York Independent System Operator,1454,megawatthours
+2024-11-25T10,ZONB,Genesee,NYIS,New York Independent System Operator,922,megawatthours
+2024-11-25T10,ZONC,Central,NYIS,New York Independent System Operator,1541,megawatthours
+2024-11-25T10,ZOND,North,NYIS,New York Independent System Operator,648,megawatthours
+2024-11-25T10,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,760,megawatthours
+2024-11-25T10,ZONF,Capital,NYIS,New York Independent System Operator,1152,megawatthours
+2024-11-25T10,ZONG,Hudson Valley,NYIS,New York Independent System Operator,885,megawatthours
+2024-11-25T10,ZONH,Millwood,NYIS,New York Independent System Operator,239,megawatthours
+2024-11-25T10,ZONI,Dunwoodie,NYIS,New York Independent System Operator,499,megawatthours
+2024-11-25T10,ZONJ,New York City,NYIS,New York Independent System Operator,4181,megawatthours
+2024-11-25T10,ZONK,Long Island,NYIS,New York Independent System Operator,1663,megawatthours
+2024-11-25T10,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",929,megawatthours
+2024-11-25T10,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14197,megawatthours
+2024-11-25T10,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5583,megawatthours
+2024-11-25T10,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",6580,megawatthours
+2024-11-25T10,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",2952,megawatthours
+2024-11-25T10,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",8236,megawatthours
+2024-11-25T10,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1584,megawatthours
+2024-11-25T10,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2327,megawatthours
+2024-11-25T10,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",13406,megawatthours
+2024-11-25T10,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1858,megawatthours
+2024-11-25T10,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1340,megawatthours
+2024-11-25T10,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1541,megawatthours
+2024-11-25T10,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",1948,megawatthours
+2024-11-25T10,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1523,megawatthours
+2024-11-25T10,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",3604,megawatthours
+2024-11-25T10,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2624,megawatthours
+2024-11-25T10,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4208,megawatthours
+2024-11-25T10,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1709,megawatthours
+2024-11-25T10,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",3865,megawatthours
+2024-11-25T10,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",129,megawatthours
+2024-11-25T10,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T10,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,19,megawatthours
+2024-11-25T10,Frep,Freeport,PNM,Public Service Company of New Mexico,81,megawatthours
+2024-11-25T10,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T10,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,47,megawatthours
+2024-11-25T10,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,37,megawatthours
+2024-11-25T10,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,56,megawatthours
+2024-11-25T10,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1000,megawatthours
+2024-11-25T10,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,251,megawatthours
+2024-11-25T10,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,3744,megawatthours
+2024-11-25T10,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,420,megawatthours
+2024-11-25T10,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,776,megawatthours
+2024-11-25T10,INDN,Independence Power & Light,SWPP,Southwest Power Pool,79,megawatthours
+2024-11-25T10,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,225,megawatthours
+2024-11-25T10,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1390,megawatthours
+2024-11-25T10,LES,Lincoln Electric System,SWPP,Southwest Power Pool,314,megawatthours
+2024-11-25T10,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,807,megawatthours
+2024-11-25T10,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,1861,megawatthours
+2024-11-25T10,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3400,megawatthours
+2024-11-25T10,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1455,megawatthours
+2024-11-25T10,SECI,Sunflower Electric,SWPP,Southwest Power Pool,593,megawatthours
+2024-11-25T10,SPRM,City of Springfield,SWPP,Southwest Power Pool,258,megawatthours
+2024-11-25T10,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3564,megawatthours
+2024-11-25T10,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4292,megawatthours
+2024-11-25T10,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,892,megawatthours
+2024-11-25T10,WR,Westar Energy,SWPP,Southwest Power Pool,2843,megawatthours
+2024-11-25T09,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,9982,megawatthours
+2024-11-25T09,SCE,Southern California Edison,CISO,California Independent System Operator,9974,megawatthours
+2024-11-25T09,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2036,megawatthours
+2024-11-25T09,VEA,Valley Electric Association,CISO,California Independent System Operator,67,megawatthours
+2024-11-25T09,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",10575,megawatthours
+2024-11-25T09,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1274,megawatthours
+2024-11-25T09,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6851,megawatthours
+2024-11-25T09,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",10197,megawatthours
+2024-11-25T09,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1146,megawatthours
+2024-11-25T09,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",5753,megawatthours
+2024-11-25T09,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3198,megawatthours
+2024-11-25T09,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",953,megawatthours
+2024-11-25T09,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",9382,megawatthours
+2024-11-25T09,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",3856,megawatthours
+2024-11-25T09,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",8092,megawatthours
+2024-11-25T09,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",15365,megawatthours
+2024-11-25T09,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",7795,megawatthours
+2024-11-25T09,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",15012,megawatthours
+2024-11-25T09,ZONA,West,NYIS,New York Independent System Operator,1423,megawatthours
+2024-11-25T09,ZONB,Genesee,NYIS,New York Independent System Operator,896,megawatthours
+2024-11-25T09,ZONC,Central,NYIS,New York Independent System Operator,1501,megawatthours
+2024-11-25T09,ZOND,North,NYIS,New York Independent System Operator,645,megawatthours
+2024-11-25T09,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,734,megawatthours
+2024-11-25T09,ZONF,Capital,NYIS,New York Independent System Operator,1129,megawatthours
+2024-11-25T09,ZONG,Hudson Valley,NYIS,New York Independent System Operator,864,megawatthours
+2024-11-25T09,ZONH,Millwood,NYIS,New York Independent System Operator,231,megawatthours
+2024-11-25T09,ZONI,Dunwoodie,NYIS,New York Independent System Operator,492,megawatthours
+2024-11-25T09,ZONJ,New York City,NYIS,New York Independent System Operator,4140,megawatthours
+2024-11-25T09,ZONK,Long Island,NYIS,New York Independent System Operator,1619,megawatthours
+2024-11-25T09,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",904,megawatthours
+2024-11-25T09,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",13936,megawatthours
+2024-11-25T09,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5405,megawatthours
+2024-11-25T09,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",6455,megawatthours
+2024-11-25T09,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",2819,megawatthours
+2024-11-25T09,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",8198,megawatthours
+2024-11-25T09,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1558,megawatthours
+2024-11-25T09,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2281,megawatthours
+2024-11-25T09,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",12988,megawatthours
+2024-11-25T09,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1775,megawatthours
+2024-11-25T09,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1312,megawatthours
+2024-11-25T09,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1520,megawatthours
+2024-11-25T09,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",1894,megawatthours
+2024-11-25T09,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1466,megawatthours
+2024-11-25T09,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",3490,megawatthours
+2024-11-25T09,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2498,megawatthours
+2024-11-25T09,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4055,megawatthours
+2024-11-25T09,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1656,megawatthours
+2024-11-25T09,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",3768,megawatthours
+2024-11-25T09,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",127,megawatthours
+2024-11-25T09,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T09,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,17,megawatthours
+2024-11-25T09,Frep,Freeport,PNM,Public Service Company of New Mexico,80,megawatthours
+2024-11-25T09,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T09,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,47,megawatthours
+2024-11-25T09,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,37,megawatthours
+2024-11-25T09,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,56,megawatthours
+2024-11-25T09,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,996,megawatthours
+2024-11-25T09,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,253,megawatthours
+2024-11-25T09,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,3731,megawatthours
+2024-11-25T09,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,416,megawatthours
+2024-11-25T09,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,773,megawatthours
+2024-11-25T09,INDN,Independence Power & Light,SWPP,Southwest Power Pool,78,megawatthours
+2024-11-25T09,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,210,megawatthours
+2024-11-25T09,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1368,megawatthours
+2024-11-25T09,LES,Lincoln Electric System,SWPP,Southwest Power Pool,307,megawatthours
+2024-11-25T09,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,790,megawatthours
+2024-11-25T09,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,1861,megawatthours
+2024-11-25T09,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3383,megawatthours
+2024-11-25T09,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1441,megawatthours
+2024-11-25T09,SECI,Sunflower Electric,SWPP,Southwest Power Pool,586,megawatthours
+2024-11-25T09,SPRM,City of Springfield,SWPP,Southwest Power Pool,257,megawatthours
+2024-11-25T09,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3534,megawatthours
+2024-11-25T09,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4283,megawatthours
+2024-11-25T09,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,887,megawatthours
+2024-11-25T09,WR,Westar Energy,SWPP,Southwest Power Pool,2814,megawatthours
+2024-11-25T08,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,10506,megawatthours
+2024-11-25T08,SCE,Southern California Edison,CISO,California Independent System Operator,10399,megawatthours
+2024-11-25T08,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2145,megawatthours
+2024-11-25T08,VEA,Valley Electric Association,CISO,California Independent System Operator,66,megawatthours
+2024-11-25T08,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",10673,megawatthours
+2024-11-25T08,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1326,megawatthours
+2024-11-25T08,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6869,megawatthours
+2024-11-25T08,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",10476,megawatthours
+2024-11-25T08,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1107,megawatthours
+2024-11-25T08,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",6013,megawatthours
+2024-11-25T08,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3387,megawatthours
+2024-11-25T08,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",954,megawatthours
+2024-11-25T08,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",9433,megawatthours
+2024-11-25T08,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",3853,megawatthours
+2024-11-25T08,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",8047,megawatthours
+2024-11-25T08,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",15410,megawatthours
+2024-11-25T08,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",7825,megawatthours
+2024-11-25T08,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",15257,megawatthours
+2024-11-25T08,ZONA,West,NYIS,New York Independent System Operator,1423,megawatthours
+2024-11-25T08,ZONB,Genesee,NYIS,New York Independent System Operator,893,megawatthours
+2024-11-25T08,ZONC,Central,NYIS,New York Independent System Operator,1497,megawatthours
+2024-11-25T08,ZOND,North,NYIS,New York Independent System Operator,644,megawatthours
+2024-11-25T08,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,727,megawatthours
+2024-11-25T08,ZONF,Capital,NYIS,New York Independent System Operator,1119,megawatthours
+2024-11-25T08,ZONG,Hudson Valley,NYIS,New York Independent System Operator,865,megawatthours
+2024-11-25T08,ZONH,Millwood,NYIS,New York Independent System Operator,231,megawatthours
+2024-11-25T08,ZONI,Dunwoodie,NYIS,New York Independent System Operator,501,megawatthours
+2024-11-25T08,ZONJ,New York City,NYIS,New York Independent System Operator,4183,megawatthours
+2024-11-25T08,ZONK,Long Island,NYIS,New York Independent System Operator,1634,megawatthours
+2024-11-25T08,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",902,megawatthours
+2024-11-25T08,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",13750,megawatthours
+2024-11-25T08,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5346,megawatthours
+2024-11-25T08,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",6456,megawatthours
+2024-11-25T08,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",2782,megawatthours
+2024-11-25T08,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",8303,megawatthours
+2024-11-25T08,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1568,megawatthours
+2024-11-25T08,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2306,megawatthours
+2024-11-25T08,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",12763,megawatthours
+2024-11-25T08,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1740,megawatthours
+2024-11-25T08,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1304,megawatthours
+2024-11-25T08,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1535,megawatthours
+2024-11-25T08,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",1885,megawatthours
+2024-11-25T08,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1451,megawatthours
+2024-11-25T08,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",3470,megawatthours
+2024-11-25T08,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2469,megawatthours
+2024-11-25T08,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4004,megawatthours
+2024-11-25T08,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1648,megawatthours
+2024-11-25T08,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",3769,megawatthours
+2024-11-25T08,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",128,megawatthours
+2024-11-25T08,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T08,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,18,megawatthours
+2024-11-25T08,Frep,Freeport,PNM,Public Service Company of New Mexico,79,megawatthours
+2024-11-25T08,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T08,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,47,megawatthours
+2024-11-25T08,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,38,megawatthours
+2024-11-25T08,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,57,megawatthours
+2024-11-25T08,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1003,megawatthours
+2024-11-25T08,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,258,megawatthours
+2024-11-25T08,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,3757,megawatthours
+2024-11-25T08,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,419,megawatthours
+2024-11-25T08,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,772,megawatthours
+2024-11-25T08,INDN,Independence Power & Light,SWPP,Southwest Power Pool,78,megawatthours
+2024-11-25T08,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,206,megawatthours
+2024-11-25T08,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1371,megawatthours
+2024-11-25T08,LES,Lincoln Electric System,SWPP,Southwest Power Pool,308,megawatthours
+2024-11-25T08,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,786,megawatthours
+2024-11-25T08,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,1877,megawatthours
+2024-11-25T08,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3408,megawatthours
+2024-11-25T08,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1436,megawatthours
+2024-11-25T08,SECI,Sunflower Electric,SWPP,Southwest Power Pool,583,megawatthours
+2024-11-25T08,SPRM,City of Springfield,SWPP,Southwest Power Pool,261,megawatthours
+2024-11-25T08,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3534,megawatthours
+2024-11-25T08,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4277,megawatthours
+2024-11-25T08,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,885,megawatthours
+2024-11-25T08,WR,Westar Energy,SWPP,Southwest Power Pool,2832,megawatthours
+2024-11-25T07,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,11121,megawatthours
+2024-11-25T07,SCE,Southern California Edison,CISO,California Independent System Operator,10796,megawatthours
+2024-11-25T07,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2261,megawatthours
+2024-11-25T07,VEA,Valley Electric Association,CISO,California Independent System Operator,67,megawatthours
+2024-11-25T07,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",10864,megawatthours
+2024-11-25T07,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1372,megawatthours
+2024-11-25T07,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6911,megawatthours
+2024-11-25T07,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",10896,megawatthours
+2024-11-25T07,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1255,megawatthours
+2024-11-25T07,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",6293,megawatthours
+2024-11-25T07,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3551,megawatthours
+2024-11-25T07,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",991,megawatthours
+2024-11-25T07,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",9586,megawatthours
+2024-11-25T07,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",3945,megawatthours
+2024-11-25T07,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",8217,megawatthours
+2024-11-25T07,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",15578,megawatthours
+2024-11-25T07,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",7937,megawatthours
+2024-11-25T07,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",15563,megawatthours
+2024-11-25T07,ZONA,West,NYIS,New York Independent System Operator,1432,megawatthours
+2024-11-25T07,ZONB,Genesee,NYIS,New York Independent System Operator,900,megawatthours
+2024-11-25T07,ZONC,Central,NYIS,New York Independent System Operator,1496,megawatthours
+2024-11-25T07,ZOND,North,NYIS,New York Independent System Operator,645,megawatthours
+2024-11-25T07,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,730,megawatthours
+2024-11-25T07,ZONF,Capital,NYIS,New York Independent System Operator,1121,megawatthours
+2024-11-25T07,ZONG,Hudson Valley,NYIS,New York Independent System Operator,875,megawatthours
+2024-11-25T07,ZONH,Millwood,NYIS,New York Independent System Operator,241,megawatthours
+2024-11-25T07,ZONI,Dunwoodie,NYIS,New York Independent System Operator,526,megawatthours
+2024-11-25T07,ZONJ,New York City,NYIS,New York Independent System Operator,4272,megawatthours
+2024-11-25T07,ZONK,Long Island,NYIS,New York Independent System Operator,1672,megawatthours
+2024-11-25T07,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",911,megawatthours
+2024-11-25T07,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",13833,megawatthours
+2024-11-25T07,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5306,megawatthours
+2024-11-25T07,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",6535,megawatthours
+2024-11-25T07,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",2806,megawatthours
+2024-11-25T07,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",8423,megawatthours
+2024-11-25T07,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1592,megawatthours
+2024-11-25T07,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2352,megawatthours
+2024-11-25T07,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",12694,megawatthours
+2024-11-25T07,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1728,megawatthours
+2024-11-25T07,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1319,megawatthours
+2024-11-25T07,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1498,megawatthours
+2024-11-25T07,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",1910,megawatthours
+2024-11-25T07,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1455,megawatthours
+2024-11-25T07,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",3503,megawatthours
+2024-11-25T07,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2492,megawatthours
+2024-11-25T07,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4016,megawatthours
+2024-11-25T07,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1659,megawatthours
+2024-11-25T07,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",3826,megawatthours
+2024-11-25T07,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",129,megawatthours
+2024-11-25T07,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T07,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,19,megawatthours
+2024-11-25T07,Frep,Freeport,PNM,Public Service Company of New Mexico,80,megawatthours
+2024-11-25T07,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T07,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,47,megawatthours
+2024-11-25T07,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,38,megawatthours
+2024-11-25T07,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,56,megawatthours
+2024-11-25T07,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1043,megawatthours
+2024-11-25T07,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,259,megawatthours
+2024-11-25T07,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,3840,megawatthours
+2024-11-25T07,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,430,megawatthours
+2024-11-25T07,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,780,megawatthours
+2024-11-25T07,INDN,Independence Power & Light,SWPP,Southwest Power Pool,80,megawatthours
+2024-11-25T07,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,211,megawatthours
+2024-11-25T07,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1386,megawatthours
+2024-11-25T07,LES,Lincoln Electric System,SWPP,Southwest Power Pool,313,megawatthours
+2024-11-25T07,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,794,megawatthours
+2024-11-25T07,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,1884,megawatthours
+2024-11-25T07,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3473,megawatthours
+2024-11-25T07,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1449,megawatthours
+2024-11-25T07,SECI,Sunflower Electric,SWPP,Southwest Power Pool,587,megawatthours
+2024-11-25T07,SPRM,City of Springfield,SWPP,Southwest Power Pool,268,megawatthours
+2024-11-25T07,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3542,megawatthours
+2024-11-25T07,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4279,megawatthours
+2024-11-25T07,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,891,megawatthours
+2024-11-25T07,WR,Westar Energy,SWPP,Southwest Power Pool,2845,megawatthours
+2024-11-25T06,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,11469,megawatthours
+2024-11-25T06,SCE,Southern California Edison,CISO,California Independent System Operator,10939,megawatthours
+2024-11-25T06,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2350,megawatthours
+2024-11-25T06,VEA,Valley Electric Association,CISO,California Independent System Operator,68,megawatthours
+2024-11-25T06,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",11309,megawatthours
+2024-11-25T06,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1464,megawatthours
+2024-11-25T06,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6951,megawatthours
+2024-11-25T06,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",11553,megawatthours
+2024-11-25T06,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1293,megawatthours
+2024-11-25T06,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",6590,megawatthours
+2024-11-25T06,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3760,megawatthours
+2024-11-25T06,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1018,megawatthours
+2024-11-25T06,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",9826,megawatthours
+2024-11-25T06,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4022,megawatthours
+2024-11-25T06,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",8321,megawatthours
+2024-11-25T06,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",15943,megawatthours
+2024-11-25T06,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",8115,megawatthours
+2024-11-25T06,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",16074,megawatthours
+2024-11-25T06,ZONA,West,NYIS,New York Independent System Operator,1453,megawatthours
+2024-11-25T06,ZONB,Genesee,NYIS,New York Independent System Operator,920,megawatthours
+2024-11-25T06,ZONC,Central,NYIS,New York Independent System Operator,1512,megawatthours
+2024-11-25T06,ZOND,North,NYIS,New York Independent System Operator,651,megawatthours
+2024-11-25T06,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,738,megawatthours
+2024-11-25T06,ZONF,Capital,NYIS,New York Independent System Operator,1131,megawatthours
+2024-11-25T06,ZONG,Hudson Valley,NYIS,New York Independent System Operator,900,megawatthours
+2024-11-25T06,ZONH,Millwood,NYIS,New York Independent System Operator,250,megawatthours
+2024-11-25T06,ZONI,Dunwoodie,NYIS,New York Independent System Operator,545,megawatthours
+2024-11-25T06,ZONJ,New York City,NYIS,New York Independent System Operator,4427,megawatthours
+2024-11-25T06,ZONK,Long Island,NYIS,New York Independent System Operator,1742,megawatthours
+2024-11-25T06,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",939,megawatthours
+2024-11-25T06,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",13845,megawatthours
+2024-11-25T06,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5311,megawatthours
+2024-11-25T06,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",6667,megawatthours
+2024-11-25T06,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",2868,megawatthours
+2024-11-25T06,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",8760,megawatthours
+2024-11-25T06,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1619,megawatthours
+2024-11-25T06,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2392,megawatthours
+2024-11-25T06,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",12815,megawatthours
+2024-11-25T06,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1740,megawatthours
+2024-11-25T06,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1342,megawatthours
+2024-11-25T06,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1386,megawatthours
+2024-11-25T06,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",1965,megawatthours
+2024-11-25T06,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1477,megawatthours
+2024-11-25T06,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",3599,megawatthours
+2024-11-25T06,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2555,megawatthours
+2024-11-25T06,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4062,megawatthours
+2024-11-25T06,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1683,megawatthours
+2024-11-25T06,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",3946,megawatthours
+2024-11-25T06,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",133,megawatthours
+2024-11-25T06,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T06,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,20,megawatthours
+2024-11-25T06,Frep,Freeport,PNM,Public Service Company of New Mexico,81,megawatthours
+2024-11-25T06,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T06,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,47,megawatthours
+2024-11-25T06,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,40,megawatthours
+2024-11-25T06,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,58,megawatthours
+2024-11-25T06,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1119,megawatthours
+2024-11-25T06,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,270,megawatthours
+2024-11-25T06,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,3990,megawatthours
+2024-11-25T06,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,456,megawatthours
+2024-11-25T06,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,793,megawatthours
+2024-11-25T06,INDN,Independence Power & Light,SWPP,Southwest Power Pool,82,megawatthours
+2024-11-25T06,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,218,megawatthours
+2024-11-25T06,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1417,megawatthours
+2024-11-25T06,LES,Lincoln Electric System,SWPP,Southwest Power Pool,322,megawatthours
+2024-11-25T06,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,805,megawatthours
+2024-11-25T06,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,1904,megawatthours
+2024-11-25T06,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3583,megawatthours
+2024-11-25T06,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1470,megawatthours
+2024-11-25T06,SECI,Sunflower Electric,SWPP,Southwest Power Pool,595,megawatthours
+2024-11-25T06,SPRM,City of Springfield,SWPP,Southwest Power Pool,280,megawatthours
+2024-11-25T06,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3583,megawatthours
+2024-11-25T06,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4333,megawatthours
+2024-11-25T06,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,914,megawatthours
+2024-11-25T06,WR,Westar Energy,SWPP,Southwest Power Pool,2907,megawatthours
+2024-11-25T05,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,11705,megawatthours
+2024-11-25T05,SCE,Southern California Edison,CISO,California Independent System Operator,11102,megawatthours
+2024-11-25T05,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2417,megawatthours
+2024-11-25T05,VEA,Valley Electric Association,CISO,California Independent System Operator,67,megawatthours
+2024-11-25T05,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",11804,megawatthours
+2024-11-25T05,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1536,megawatthours
+2024-11-25T05,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6996,megawatthours
+2024-11-25T05,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",12253,megawatthours
+2024-11-25T05,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1359,megawatthours
+2024-11-25T05,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",7092,megawatthours
+2024-11-25T05,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",3956,megawatthours
+2024-11-25T05,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1062,megawatthours
+2024-11-25T05,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",10248,megawatthours
+2024-11-25T05,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4181,megawatthours
+2024-11-25T05,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",8519,megawatthours
+2024-11-25T05,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",16275,megawatthours
+2024-11-25T05,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",8470,megawatthours
+2024-11-25T05,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",16789,megawatthours
+2024-11-25T05,ZONA,West,NYIS,New York Independent System Operator,1489,megawatthours
+2024-11-25T05,ZONB,Genesee,NYIS,New York Independent System Operator,950,megawatthours
+2024-11-25T05,ZONC,Central,NYIS,New York Independent System Operator,1561,megawatthours
+2024-11-25T05,ZOND,North,NYIS,New York Independent System Operator,671,megawatthours
+2024-11-25T05,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,757,megawatthours
+2024-11-25T05,ZONF,Capital,NYIS,New York Independent System Operator,1157,megawatthours
+2024-11-25T05,ZONG,Hudson Valley,NYIS,New York Independent System Operator,950,megawatthours
+2024-11-25T05,ZONH,Millwood,NYIS,New York Independent System Operator,263,megawatthours
+2024-11-25T05,ZONI,Dunwoodie,NYIS,New York Independent System Operator,567,megawatthours
+2024-11-25T05,ZONJ,New York City,NYIS,New York Independent System Operator,4629,megawatthours
+2024-11-25T05,ZONK,Long Island,NYIS,New York Independent System Operator,1842,megawatthours
+2024-11-25T05,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",979,megawatthours
+2024-11-25T05,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14087,megawatthours
+2024-11-25T05,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5387,megawatthours
+2024-11-25T05,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",6776,megawatthours
+2024-11-25T05,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",2968,megawatthours
+2024-11-25T05,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",9094,megawatthours
+2024-11-25T05,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1653,megawatthours
+2024-11-25T05,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2482,megawatthours
+2024-11-25T05,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",13034,megawatthours
+2024-11-25T05,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1780,megawatthours
+2024-11-25T05,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1376,megawatthours
+2024-11-25T05,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1412,megawatthours
+2024-11-25T05,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2067,megawatthours
+2024-11-25T05,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1516,megawatthours
+2024-11-25T05,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",3751,megawatthours
+2024-11-25T05,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2670,megawatthours
+2024-11-25T05,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4139,megawatthours
+2024-11-25T05,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1723,megawatthours
+2024-11-25T05,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4119,megawatthours
+2024-11-25T05,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",138,megawatthours
+2024-11-25T05,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T05,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,20,megawatthours
+2024-11-25T05,Frep,Freeport,PNM,Public Service Company of New Mexico,81,megawatthours
+2024-11-25T05,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T05,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,47,megawatthours
+2024-11-25T05,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,42,megawatthours
+2024-11-25T05,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,58,megawatthours
+2024-11-25T05,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1190,megawatthours
+2024-11-25T05,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,280,megawatthours
+2024-11-25T05,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4188,megawatthours
+2024-11-25T05,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,483,megawatthours
+2024-11-25T05,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,805,megawatthours
+2024-11-25T05,INDN,Independence Power & Light,SWPP,Southwest Power Pool,88,megawatthours
+2024-11-25T05,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,222,megawatthours
+2024-11-25T05,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1489,megawatthours
+2024-11-25T05,LES,Lincoln Electric System,SWPP,Southwest Power Pool,338,megawatthours
+2024-11-25T05,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,831,megawatthours
+2024-11-25T05,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,1947,megawatthours
+2024-11-25T05,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3714,megawatthours
+2024-11-25T05,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1517,megawatthours
+2024-11-25T05,SECI,Sunflower Electric,SWPP,Southwest Power Pool,605,megawatthours
+2024-11-25T05,SPRM,City of Springfield,SWPP,Southwest Power Pool,295,megawatthours
+2024-11-25T05,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3634,megawatthours
+2024-11-25T05,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4404,megawatthours
+2024-11-25T05,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,953,megawatthours
+2024-11-25T05,WR,Westar Energy,SWPP,Southwest Power Pool,3019,megawatthours
+2024-11-25T04,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,11924,megawatthours
+2024-11-25T04,SCE,Southern California Edison,CISO,California Independent System Operator,11218,megawatthours
+2024-11-25T04,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2484,megawatthours
+2024-11-25T04,VEA,Valley Electric Association,CISO,California Independent System Operator,67,megawatthours
+2024-11-25T04,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",12296,megawatthours
+2024-11-25T04,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1625,megawatthours
+2024-11-25T04,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6959,megawatthours
+2024-11-25T04,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",12988,megawatthours
+2024-11-25T04,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1335,megawatthours
+2024-11-25T04,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",7538,megawatthours
+2024-11-25T04,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4089,megawatthours
+2024-11-25T04,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1129,megawatthours
+2024-11-25T04,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",10668,megawatthours
+2024-11-25T04,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4382,megawatthours
+2024-11-25T04,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",8908,megawatthours
+2024-11-25T04,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",15891,megawatthours
+2024-11-25T04,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",8831,megawatthours
+2024-11-25T04,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",17491,megawatthours
+2024-11-25T04,ZONA,West,NYIS,New York Independent System Operator,1544,megawatthours
+2024-11-25T04,ZONB,Genesee,NYIS,New York Independent System Operator,996,megawatthours
+2024-11-25T04,ZONC,Central,NYIS,New York Independent System Operator,1641,megawatthours
+2024-11-25T04,ZOND,North,NYIS,New York Independent System Operator,668,megawatthours
+2024-11-25T04,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,812,megawatthours
+2024-11-25T04,ZONF,Capital,NYIS,New York Independent System Operator,1230,megawatthours
+2024-11-25T04,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1013,megawatthours
+2024-11-25T04,ZONH,Millwood,NYIS,New York Independent System Operator,282,megawatthours
+2024-11-25T04,ZONI,Dunwoodie,NYIS,New York Independent System Operator,610,megawatthours
+2024-11-25T04,ZONJ,New York City,NYIS,New York Independent System Operator,4888,megawatthours
+2024-11-25T04,ZONK,Long Island,NYIS,New York Independent System Operator,1982,megawatthours
+2024-11-25T04,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1032,megawatthours
+2024-11-25T04,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14399,megawatthours
+2024-11-25T04,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5508,megawatthours
+2024-11-25T04,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",6940,megawatthours
+2024-11-25T04,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3119,megawatthours
+2024-11-25T04,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",9499,megawatthours
+2024-11-25T04,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1699,megawatthours
+2024-11-25T04,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2594,megawatthours
+2024-11-25T04,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",13413,megawatthours
+2024-11-25T04,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1856,megawatthours
+2024-11-25T04,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1430,megawatthours
+2024-11-25T04,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1511,megawatthours
+2024-11-25T04,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2198,megawatthours
+2024-11-25T04,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1574,megawatthours
+2024-11-25T04,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",3949,megawatthours
+2024-11-25T04,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2806,megawatthours
+2024-11-25T04,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4292,megawatthours
+2024-11-25T04,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1827,megawatthours
+2024-11-25T04,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4336,megawatthours
+2024-11-25T04,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",148,megawatthours
+2024-11-25T04,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T04,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,22,megawatthours
+2024-11-25T04,Frep,Freeport,PNM,Public Service Company of New Mexico,76,megawatthours
+2024-11-25T04,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T04,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,48,megawatthours
+2024-11-25T04,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,43,megawatthours
+2024-11-25T04,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,59,megawatthours
+2024-11-25T04,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1228,megawatthours
+2024-11-25T04,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,287,megawatthours
+2024-11-25T04,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4374,megawatthours
+2024-11-25T04,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,510,megawatthours
+2024-11-25T04,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,816,megawatthours
+2024-11-25T04,INDN,Independence Power & Light,SWPP,Southwest Power Pool,95,megawatthours
+2024-11-25T04,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,236,megawatthours
+2024-11-25T04,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1565,megawatthours
+2024-11-25T04,LES,Lincoln Electric System,SWPP,Southwest Power Pool,357,megawatthours
+2024-11-25T04,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,877,megawatthours
+2024-11-25T04,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2023,megawatthours
+2024-11-25T04,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3804,megawatthours
+2024-11-25T04,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1575,megawatthours
+2024-11-25T04,SECI,Sunflower Electric,SWPP,Southwest Power Pool,619,megawatthours
+2024-11-25T04,SPRM,City of Springfield,SWPP,Southwest Power Pool,309,megawatthours
+2024-11-25T04,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3665,megawatthours
+2024-11-25T04,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4473,megawatthours
+2024-11-25T04,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,996,megawatthours
+2024-11-25T04,WR,Westar Energy,SWPP,Southwest Power Pool,3150,megawatthours
+2024-11-25T03,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,11961,megawatthours
+2024-11-25T03,SCE,Southern California Edison,CISO,California Independent System Operator,11299,megawatthours
+2024-11-25T03,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2492,megawatthours
+2024-11-25T03,VEA,Valley Electric Association,CISO,California Independent System Operator,67,megawatthours
+2024-11-25T03,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",12663,megawatthours
+2024-11-25T03,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1673,megawatthours
+2024-11-25T03,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",6972,megawatthours
+2024-11-25T03,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13401,megawatthours
+2024-11-25T03,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1385,megawatthours
+2024-11-25T03,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",7804,megawatthours
+2024-11-25T03,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4200,megawatthours
+2024-11-25T03,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1171,megawatthours
+2024-11-25T03,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11067,megawatthours
+2024-11-25T03,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4506,megawatthours
+2024-11-25T03,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9168,megawatthours
+2024-11-25T03,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",16178,megawatthours
+2024-11-25T03,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",9104,megawatthours
+2024-11-25T03,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",17888,megawatthours
+2024-11-25T03,ZONA,West,NYIS,New York Independent System Operator,1610,megawatthours
+2024-11-25T03,ZONB,Genesee,NYIS,New York Independent System Operator,1056,megawatthours
+2024-11-25T03,ZONC,Central,NYIS,New York Independent System Operator,1714,megawatthours
+2024-11-25T03,ZOND,North,NYIS,New York Independent System Operator,688,megawatthours
+2024-11-25T03,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,864,megawatthours
+2024-11-25T03,ZONF,Capital,NYIS,New York Independent System Operator,1311,megawatthours
+2024-11-25T03,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1079,megawatthours
+2024-11-25T03,ZONH,Millwood,NYIS,New York Independent System Operator,302,megawatthours
+2024-11-25T03,ZONI,Dunwoodie,NYIS,New York Independent System Operator,650,megawatthours
+2024-11-25T03,ZONJ,New York City,NYIS,New York Independent System Operator,5103,megawatthours
+2024-11-25T03,ZONK,Long Island,NYIS,New York Independent System Operator,2118,megawatthours
+2024-11-25T03,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1086,megawatthours
+2024-11-25T03,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14689,megawatthours
+2024-11-25T03,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5685,megawatthours
+2024-11-25T03,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",7331,megawatthours
+2024-11-25T03,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3279,megawatthours
+2024-11-25T03,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",9769,megawatthours
+2024-11-25T03,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1749,megawatthours
+2024-11-25T03,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2707,megawatthours
+2024-11-25T03,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",13863,megawatthours
+2024-11-25T03,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",1941,megawatthours
+2024-11-25T03,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1484,megawatthours
+2024-11-25T03,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1556,megawatthours
+2024-11-25T03,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2347,megawatthours
+2024-11-25T03,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1641,megawatthours
+2024-11-25T03,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4112,megawatthours
+2024-11-25T03,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",2930,megawatthours
+2024-11-25T03,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4485,megawatthours
+2024-11-25T03,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1854,megawatthours
+2024-11-25T03,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4523,megawatthours
+2024-11-25T03,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",156,megawatthours
+2024-11-25T03,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T03,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,22,megawatthours
+2024-11-25T03,Frep,Freeport,PNM,Public Service Company of New Mexico,72,megawatthours
+2024-11-25T03,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T03,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,48,megawatthours
+2024-11-25T03,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,44,megawatthours
+2024-11-25T03,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,59,megawatthours
+2024-11-25T03,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1267,megawatthours
+2024-11-25T03,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,286,megawatthours
+2024-11-25T03,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4499,megawatthours
+2024-11-25T03,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,527,megawatthours
+2024-11-25T03,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,819,megawatthours
+2024-11-25T03,INDN,Independence Power & Light,SWPP,Southwest Power Pool,99,megawatthours
+2024-11-25T03,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,241,megawatthours
+2024-11-25T03,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1613,megawatthours
+2024-11-25T03,LES,Lincoln Electric System,SWPP,Southwest Power Pool,371,megawatthours
+2024-11-25T03,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,909,megawatthours
+2024-11-25T03,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2065,megawatthours
+2024-11-25T03,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3836,megawatthours
+2024-11-25T03,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1615,megawatthours
+2024-11-25T03,SECI,Sunflower Electric,SWPP,Southwest Power Pool,621,megawatthours
+2024-11-25T03,SPRM,City of Springfield,SWPP,Southwest Power Pool,320,megawatthours
+2024-11-25T03,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3682,megawatthours
+2024-11-25T03,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4516,megawatthours
+2024-11-25T03,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1023,megawatthours
+2024-11-25T03,WR,Westar Energy,SWPP,Southwest Power Pool,3229,megawatthours
+2024-11-25T02,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,10940,megawatthours
+2024-11-25T02,SCE,Southern California Edison,CISO,California Independent System Operator,10464,megawatthours
+2024-11-25T02,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,2261,megawatthours
+2024-11-25T02,VEA,Valley Electric Association,CISO,California Independent System Operator,61,megawatthours
+2024-11-25T02,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",12895,megawatthours
+2024-11-25T02,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1722,megawatthours
+2024-11-25T02,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7253,megawatthours
+2024-11-25T02,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13877,megawatthours
+2024-11-25T02,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1487,megawatthours
+2024-11-25T02,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",7988,megawatthours
+2024-11-25T02,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4204,megawatthours
+2024-11-25T02,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1179,megawatthours
+2024-11-25T02,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11350,megawatthours
+2024-11-25T02,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4584,megawatthours
+2024-11-25T02,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9349,megawatthours
+2024-11-25T02,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",16688,megawatthours
+2024-11-25T02,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",9311,megawatthours
+2024-11-25T02,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",18247,megawatthours
+2024-11-25T02,ZONA,West,NYIS,New York Independent System Operator,1666,megawatthours
+2024-11-25T02,ZONB,Genesee,NYIS,New York Independent System Operator,1116,megawatthours
+2024-11-25T02,ZONC,Central,NYIS,New York Independent System Operator,1799,megawatthours
+2024-11-25T02,ZOND,North,NYIS,New York Independent System Operator,715,megawatthours
+2024-11-25T02,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,916,megawatthours
+2024-11-25T02,ZONF,Capital,NYIS,New York Independent System Operator,1385,megawatthours
+2024-11-25T02,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1133,megawatthours
+2024-11-25T02,ZONH,Millwood,NYIS,New York Independent System Operator,320,megawatthours
+2024-11-25T02,ZONI,Dunwoodie,NYIS,New York Independent System Operator,675,megawatthours
+2024-11-25T02,ZONJ,New York City,NYIS,New York Independent System Operator,5240,megawatthours
+2024-11-25T02,ZONK,Long Island,NYIS,New York Independent System Operator,2223,megawatthours
+2024-11-25T02,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1131,megawatthours
+2024-11-25T02,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14958,megawatthours
+2024-11-25T02,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5807,megawatthours
+2024-11-25T02,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",7452,megawatthours
+2024-11-25T02,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3378,megawatthours
+2024-11-25T02,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",9955,megawatthours
+2024-11-25T02,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1782,megawatthours
+2024-11-25T02,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2773,megawatthours
+2024-11-25T02,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",14102,megawatthours
+2024-11-25T02,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",2003,megawatthours
+2024-11-25T02,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1503,megawatthours
+2024-11-25T02,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1706,megawatthours
+2024-11-25T02,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2442,megawatthours
+2024-11-25T02,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1705,megawatthours
+2024-11-25T02,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4245,megawatthours
+2024-11-25T02,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",3006,megawatthours
+2024-11-25T02,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4660,megawatthours
+2024-11-25T02,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1896,megawatthours
+2024-11-25T02,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4653,megawatthours
+2024-11-25T02,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",162,megawatthours
+2024-11-25T02,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T02,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,23,megawatthours
+2024-11-25T02,Frep,Freeport,PNM,Public Service Company of New Mexico,75,megawatthours
+2024-11-25T02,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,3,megawatthours
+2024-11-25T02,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,48,megawatthours
+2024-11-25T02,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,39,megawatthours
+2024-11-25T02,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,59,megawatthours
+2024-11-25T02,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1282,megawatthours
+2024-11-25T02,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,287,megawatthours
+2024-11-25T02,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4602,megawatthours
+2024-11-25T02,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,533,megawatthours
+2024-11-25T02,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,827,megawatthours
+2024-11-25T02,INDN,Independence Power & Light,SWPP,Southwest Power Pool,103,megawatthours
+2024-11-25T02,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,247,megawatthours
+2024-11-25T02,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1652,megawatthours
+2024-11-25T02,LES,Lincoln Electric System,SWPP,Southwest Power Pool,380,megawatthours
+2024-11-25T02,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,936,megawatthours
+2024-11-25T02,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2089,megawatthours
+2024-11-25T02,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3901,megawatthours
+2024-11-25T02,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1634,megawatthours
+2024-11-25T02,SECI,Sunflower Electric,SWPP,Southwest Power Pool,623,megawatthours
+2024-11-25T02,SPRM,City of Springfield,SWPP,Southwest Power Pool,330,megawatthours
+2024-11-25T02,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3704,megawatthours
+2024-11-25T02,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4528,megawatthours
+2024-11-25T02,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1051,megawatthours
+2024-11-25T02,WR,Westar Energy,SWPP,Southwest Power Pool,3264,megawatthours
+2024-11-25T01,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,9782,megawatthours
+2024-11-25T01,SCE,Southern California Edison,CISO,California Independent System Operator,9823,megawatthours
+2024-11-25T01,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1995,megawatthours
+2024-11-25T01,VEA,Valley Electric Association,CISO,California Independent System Operator,59,megawatthours
+2024-11-25T01,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",13130,megawatthours
+2024-11-25T01,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1728,megawatthours
+2024-11-25T01,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7284,megawatthours
+2024-11-25T01,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",14025,megawatthours
+2024-11-25T01,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1551,megawatthours
+2024-11-25T01,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",8258,megawatthours
+2024-11-25T01,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4285,megawatthours
+2024-11-25T01,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1154,megawatthours
+2024-11-25T01,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11575,megawatthours
+2024-11-25T01,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4641,megawatthours
+2024-11-25T01,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9547,megawatthours
+2024-11-25T01,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",16931,megawatthours
+2024-11-25T01,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",9447,megawatthours
+2024-11-25T01,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",18461,megawatthours
+2024-11-25T01,ZONA,West,NYIS,New York Independent System Operator,1695,megawatthours
+2024-11-25T01,ZONB,Genesee,NYIS,New York Independent System Operator,1154,megawatthours
+2024-11-25T01,ZONC,Central,NYIS,New York Independent System Operator,1862,megawatthours
+2024-11-25T01,ZOND,North,NYIS,New York Independent System Operator,723,megawatthours
+2024-11-25T01,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,947,megawatthours
+2024-11-25T01,ZONF,Capital,NYIS,New York Independent System Operator,1432,megawatthours
+2024-11-25T01,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1168,megawatthours
+2024-11-25T01,ZONH,Millwood,NYIS,New York Independent System Operator,330,megawatthours
+2024-11-25T01,ZONI,Dunwoodie,NYIS,New York Independent System Operator,693,megawatthours
+2024-11-25T01,ZONJ,New York City,NYIS,New York Independent System Operator,5326,megawatthours
+2024-11-25T01,ZONK,Long Island,NYIS,New York Independent System Operator,2289,megawatthours
+2024-11-25T01,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1157,megawatthours
+2024-11-25T01,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14985,megawatthours
+2024-11-25T01,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5825,megawatthours
+2024-11-25T01,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",7639,megawatthours
+2024-11-25T01,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3428,megawatthours
+2024-11-25T01,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",10031,megawatthours
+2024-11-25T01,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1804,megawatthours
+2024-11-25T01,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2817,megawatthours
+2024-11-25T01,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",14240,megawatthours
+2024-11-25T01,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",2040,megawatthours
+2024-11-25T01,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1525,megawatthours
+2024-11-25T01,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1698,megawatthours
+2024-11-25T01,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2511,megawatthours
+2024-11-25T01,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1746,megawatthours
+2024-11-25T01,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4342,megawatthours
+2024-11-25T01,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",3039,megawatthours
+2024-11-25T01,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4770,megawatthours
+2024-11-25T01,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1939,megawatthours
+2024-11-25T01,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4729,megawatthours
+2024-11-25T01,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",165,megawatthours
+2024-11-25T01,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T01,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,22,megawatthours
+2024-11-25T01,Frep,Freeport,PNM,Public Service Company of New Mexico,81,megawatthours
+2024-11-25T01,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T01,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,48,megawatthours
+2024-11-25T01,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,39,megawatthours
+2024-11-25T01,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,58,megawatthours
+2024-11-25T01,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1266,megawatthours
+2024-11-25T01,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,279,megawatthours
+2024-11-25T01,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4700,megawatthours
+2024-11-25T01,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,538,megawatthours
+2024-11-25T01,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,828,megawatthours
+2024-11-25T01,INDN,Independence Power & Light,SWPP,Southwest Power Pool,106,megawatthours
+2024-11-25T01,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,236,megawatthours
+2024-11-25T01,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1672,megawatthours
+2024-11-25T01,LES,Lincoln Electric System,SWPP,Southwest Power Pool,385,megawatthours
+2024-11-25T01,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,955,megawatthours
+2024-11-25T01,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2106,megawatthours
+2024-11-25T01,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3943,megawatthours
+2024-11-25T01,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1645,megawatthours
+2024-11-25T01,SECI,Sunflower Electric,SWPP,Southwest Power Pool,636,megawatthours
+2024-11-25T01,SPRM,City of Springfield,SWPP,Southwest Power Pool,337,megawatthours
+2024-11-25T01,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3756,megawatthours
+2024-11-25T01,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4531,megawatthours
+2024-11-25T01,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1073,megawatthours
+2024-11-25T01,WR,Westar Energy,SWPP,Southwest Power Pool,3306,megawatthours
+2024-11-25T00,PGAE,Pacific Gas and Electric,CISO,California Independent System Operator,9074,megawatthours
+2024-11-25T00,SCE,Southern California Edison,CISO,California Independent System Operator,10844,megawatthours
+2024-11-25T00,SDGE,San Diego Gas and Electric,CISO,California Independent System Operator,1943,megawatthours
+2024-11-25T00,VEA,Valley Electric Association,CISO,California Independent System Operator,90,megawatthours
+2024-11-25T00,COAS,Coast,ERCO,"Electric Reliability Council of Texas, Inc.",13134,megawatthours
+2024-11-25T00,EAST,East,ERCO,"Electric Reliability Council of Texas, Inc.",1710,megawatthours
+2024-11-25T00,FWES,Far West,ERCO,"Electric Reliability Council of Texas, Inc.",7278,megawatthours
+2024-11-25T00,NCEN,North Central,ERCO,"Electric Reliability Council of Texas, Inc.",13724,megawatthours
+2024-11-25T00,NRTH,North,ERCO,"Electric Reliability Council of Texas, Inc.",1528,megawatthours
+2024-11-25T00,SCEN,South Central,ERCO,"Electric Reliability Council of Texas, Inc.",8225,megawatthours
+2024-11-25T00,SOUT,South,ERCO,"Electric Reliability Council of Texas, Inc.",4352,megawatthours
+2024-11-25T00,WEST,West,ERCO,"Electric Reliability Council of Texas, Inc.",1137,megawatthours
+2024-11-25T00,0001,Zone 1,MISO,"Midcontinent Independent System Operator, Inc.",11664,megawatthours
+2024-11-25T00,0004,Zone 4,MISO,"Midcontinent Independent System Operator, Inc.",4645,megawatthours
+2024-11-25T00,0006,Zone 6,MISO,"Midcontinent Independent System Operator, Inc.",9540,megawatthours
+2024-11-25T00,0027,Zones 2 and 7,MISO,"Midcontinent Independent System Operator, Inc.",17193,megawatthours
+2024-11-25T00,0035,Zones 3 and 5,MISO,"Midcontinent Independent System Operator, Inc.",9421,megawatthours
+2024-11-25T00,8910,"Zones 8, 9, and 10",MISO,"Midcontinent Independent System Operator, Inc.",18102,megawatthours
+2024-11-25T00,ZONA,West,NYIS,New York Independent System Operator,1715,megawatthours
+2024-11-25T00,ZONB,Genesee,NYIS,New York Independent System Operator,1181,megawatthours
+2024-11-25T00,ZONC,Central,NYIS,New York Independent System Operator,1892,megawatthours
+2024-11-25T00,ZOND,North,NYIS,New York Independent System Operator,726,megawatthours
+2024-11-25T00,ZONE,Mohawk Valley,NYIS,New York Independent System Operator,965,megawatthours
+2024-11-25T00,ZONF,Capital,NYIS,New York Independent System Operator,1466,megawatthours
+2024-11-25T00,ZONG,Hudson Valley,NYIS,New York Independent System Operator,1196,megawatthours
+2024-11-25T00,ZONH,Millwood,NYIS,New York Independent System Operator,332,megawatthours
+2024-11-25T00,ZONI,Dunwoodie,NYIS,New York Independent System Operator,703,megawatthours
+2024-11-25T00,ZONJ,New York City,NYIS,New York Independent System Operator,5401,megawatthours
+2024-11-25T00,ZONK,Long Island,NYIS,New York Independent System Operator,2330,megawatthours
+2024-11-25T00,AE,Atlantic Electric zone,PJM,"PJM Interconnection, LLC",1171,megawatthours
+2024-11-25T00,AEP,American Electric Power zone,PJM,"PJM Interconnection, LLC",14830,megawatthours
+2024-11-25T00,AP,Allegheny Power zone,PJM,"PJM Interconnection, LLC",5821,megawatthours
+2024-11-25T00,ATSI,"American Transmission Systems, Inc. zone",PJM,"PJM Interconnection, LLC",7656,megawatthours
+2024-11-25T00,BC,Baltimore Gas & Electric zone,PJM,"PJM Interconnection, LLC",3437,megawatthours
+2024-11-25T00,CE,Commonwealth Edison zone,PJM,"PJM Interconnection, LLC",10122,megawatthours
+2024-11-25T00,DAY,Dayton Power & Light zone,PJM,"PJM Interconnection, LLC",1808,megawatthours
+2024-11-25T00,DEOK,Duke Energy Ohio/Kentucky zone,PJM,"PJM Interconnection, LLC",2846,megawatthours
+2024-11-25T00,DOM,Dominion Virginia Power zone,PJM,"PJM Interconnection, LLC",14251,megawatthours
+2024-11-25T00,DPL,Delmarva Power & Light zone,PJM,"PJM Interconnection, LLC",2044,megawatthours
+2024-11-25T00,DUQ,Duquesne Lighting Company zone,PJM,"PJM Interconnection, LLC",1524,megawatthours
+2024-11-25T00,EKPC,East Kentucky Power Cooperative zone,PJM,"PJM Interconnection, LLC",1628,megawatthours
+2024-11-25T00,JC,Jersey Central Power & Light zone,PJM,"PJM Interconnection, LLC",2546,megawatthours
+2024-11-25T00,ME,Metropolitan Edison zone,PJM,"PJM Interconnection, LLC",1767,megawatthours
+2024-11-25T00,PE,PECO Energy zone,PJM,"PJM Interconnection, LLC",4403,megawatthours
+2024-11-25T00,PEP,Potomac Electric Power zone,PJM,"PJM Interconnection, LLC",3037,megawatthours
+2024-11-25T00,PL,Pennsylvania Power & Light zone,PJM,"PJM Interconnection, LLC",4822,megawatthours
+2024-11-25T00,PN,Pennsylvania Electric zone,PJM,"PJM Interconnection, LLC",1950,megawatthours
+2024-11-25T00,PS,Public Service Electric & Gas zone,PJM,"PJM Interconnection, LLC",4765,megawatthours
+2024-11-25T00,RECO,Rockland Electric (East) zone,PJM,"PJM Interconnection, LLC",167,megawatthours
+2024-11-25T00,ACMA,City of Acoma Pueblo,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T00,CYGA,City of Gallup,PNM,Public Service Company of New Mexico,21,megawatthours
+2024-11-25T00,Frep,Freeport,PNM,Public Service Company of New Mexico,82,megawatthours
+2024-11-25T00,Jica,Jicarilla Apache Nation,PNM,Public Service Company of New Mexico,2,megawatthours
+2024-11-25T00,KAFB,Kirtland Air Force Base,PNM,Public Service Company of New Mexico,48,megawatthours
+2024-11-25T00,KCEC,Kit Carson Electric Cooperative,PNM,Public Service Company of New Mexico,36,megawatthours
+2024-11-25T00,LAC,Los Alamos County,PNM,Public Service Company of New Mexico,56,megawatthours
+2024-11-25T00,PNM,PNM System Firm Load,PNM,Public Service Company of New Mexico,1182,megawatthours
+2024-11-25T00,TSGT,Tri-State Generation and Transmission,PNM,Public Service Company of New Mexico,265,megawatthours
+2024-11-25T00,CSWS,AEPW American Electric Power West,SWPP,Southwest Power Pool,4669,megawatthours
+2024-11-25T00,EDE,Empire District Electric Company,SWPP,Southwest Power Pool,536,megawatthours
+2024-11-25T00,GRDA,Grand River Dam Authority,SWPP,Southwest Power Pool,837,megawatthours
+2024-11-25T00,INDN,Independence Power & Light,SWPP,Southwest Power Pool,105,megawatthours
+2024-11-25T00,KACY,Kansas City Board of Public Utilities,SWPP,Southwest Power Pool,236,megawatthours
+2024-11-25T00,KCPL,Kansas City Power & Light,SWPP,Southwest Power Pool,1656,megawatthours
+2024-11-25T00,LES,Lincoln Electric System,SWPP,Southwest Power Pool,381,megawatthours
+2024-11-25T00,MPS,KCP&L Greater Missouri Operations,SWPP,Southwest Power Pool,934,megawatthours
+2024-11-25T00,NPPD,Nebraska Public Power District,SWPP,Southwest Power Pool,2109,megawatthours
+2024-11-25T00,OKGE,Oklahoma Gas and Electric Co.,SWPP,Southwest Power Pool,3927,megawatthours
+2024-11-25T00,OPPD,Omaha Public Power District,SWPP,Southwest Power Pool,1642,megawatthours
+2024-11-25T00,SECI,Sunflower Electric,SWPP,Southwest Power Pool,628,megawatthours
+2024-11-25T00,SPRM,City of Springfield,SWPP,Southwest Power Pool,338,megawatthours
+2024-11-25T00,SPS,Southwestern Public Service Company,SWPP,Southwest Power Pool,3727,megawatthours
+2024-11-25T00,WAUE,Western Area Power Upper Great Plains East,SWPP,Southwest Power Pool,4527,megawatthours
+2024-11-25T00,WFEC,Western Farmers Electric Cooperative,SWPP,Southwest Power Pool,1051,megawatthours
+2024-11-25T00,WR,Westar Energy,SWPP,Southwest Power Pool,3255,megawatthours
